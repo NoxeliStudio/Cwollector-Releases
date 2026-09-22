@@ -1,9 +1,11 @@
 {
-  "published": false,
-  "version_name": "0.0.0",
-  "version_code": 0,
-  "apk_url": "",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases",
+  "published": true,
+  "version_name": "0.3.79-beta",
+  "version_code": 5,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.79-beta/Cwollector-0.3.79-beta-signed.apk",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.79-beta",
   "mandatory": false,
-  "notes": "Aucune version publique publiée pour le moment."
+  "prerelease": true,
+  "sha256": "4ebf114c2333c84a7876c6483502c69a42f0a1c6385a27906e0bbed4b6e662cb",
+  "notes": "Première version bêta officielle distribuée par Noxeli Studio."
 }
