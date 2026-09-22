@@ -1,11 +1,11 @@
 {
   "published": true,
-  "version_name": "0.3.79-beta",
-  "version_code": 5,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.79-beta/Cwollector-0.3.79-beta-signed.apk",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.79-beta",
+  "version_name": "0.3.80-beta",
+  "version_code": 6,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.80-beta/Cwollector-0.3.80-final-signed.apk",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.80-beta",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "4ebf114c2333c84a7876c6483502c69a42f0a1c6385a27906e0bbed4b6e662cb",
-  "notes": "Première version bêta officielle distribuée par Noxeli Studio."
+  "sha256": "655f7eaefc76fad94fe850cb2b5a2df3a094fe29515738a63579a09453460394",
+  "notes": "Mise à jour bêta officielle : système de mise à jour intégré et transfert de sauvegarde."
 }
