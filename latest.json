@@ -1,11 +1,12 @@
 {
   "published": true,
-  "version_name": "0.3.82-beta",
-  "version_code": 8,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.82-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.82-beta",
+  "version_name": "0.3.83-beta",
+  "version_code": 9,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.83-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.83-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.83-beta/Cwollector-0.3.83-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "2fed545babc6223a7f906f20a66c70f75eee35fd3f17c20695bb3b28f66f86a4",
-  "notes": "Bêta 0.3.82 — hotfix du système de mise à jour Android.\n\n• Vérification des mises à jour rendue plus fiable avec jusqu’à 3 tentatives automatiques.\n• Nouvelle vérification lorsque Cwollector revient au premier plan après un passage en arrière-plan.\n• Nouveau bouton « RECHERCHER UNE MISE À JOUR » dans les Réglages avec état visible.\n• Le bouton de mise à jour ouvre désormais la page officielle de la release GitHub plutôt que le téléchargement direct de l’APK, afin d’éviter les téléchargements bloqués à 100 % sur certains appareils Android.\n• Synchronisation automatique du versionCode interne de l’updater avec le versionCode Android pendant les futures releases.\n• Le saut de version reste supporté : une ancienne bêta peut passer directement à la dernière version disponible sans installer toutes les versions intermédiaires.\n\nAucun changement d’équilibrage ou de contenu gameplay dans cette hotfix."
+  "sha256": "a4bdbfe60ea1ae1db28c6ea5b55c9e822d4deee881a817b7d7145280634fa3e0",
+  "notes": "Bêta 0.3.83 — refonte de l’updater Android.\n\n• Vérification des mises à jour via les API Android natives en priorité, au lieu de dépendre uniquement de HTTPRequest Godot.\n• Utilisation de java.net.HttpURLConnection sur Android avec l’API GitHub comme endpoint principal et raw.githubusercontent.com en secours.\n• HTTPRequest Godot conservé uniquement comme dernier fallback.\n• Téléchargement des APK confié au DownloadManager Android : téléchargement en arrière-plan, reprise réseau et notification système à la fin.\n• Nouveau champ download_url dans latest.json réservé au téléchargement natif Android ; les anciennes builds continuent d’ouvrir la page officielle de release.\n• Bouton de secours « OUVRIR LA PAGE DES VERSIONS » disponible si les vérifications intégrées échouent.\n• Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.\n\nL’installation finale reste confirmée par Android."
 }

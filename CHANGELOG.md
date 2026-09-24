@@ -1,5 +1,27 @@
 # Patchnotes Cwollector
 
+## 0.3.83-beta — 24/09/2026
+
+Bêta 0.3.83 — refonte de l’updater Android.
+
+• Vérification des mises à jour via les API Android natives en priorité, au lieu de dépendre uniquement de HTTPRequest Godot.
+• Utilisation de java.net.HttpURLConnection sur Android avec l’API GitHub comme endpoint principal et raw.githubusercontent.com en secours.
+• HTTPRequest Godot conservé uniquement comme dernier fallback.
+• Téléchargement des APK confié au DownloadManager Android : téléchargement en arrière-plan, reprise réseau et notification système à la fin.
+• Nouveau champ download_url dans latest.json réservé au téléchargement natif Android ; les anciennes builds continuent d’ouvrir la page officielle de release.
+• Bouton de secours « OUVRIR LA PAGE DES VERSIONS » disponible si les vérifications intégrées échouent.
+• Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.
+
+L’installation finale reste confirmée par Android.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 9.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.83 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.83-beta)
+
+
 ## 0.3.82-beta — 24/09/2026
 
 Bêta 0.3.82 — hotfix du système de mise à jour Android.
