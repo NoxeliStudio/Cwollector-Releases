@@ -1,5 +1,26 @@
 # Patchnotes Cwollector
 
+## 0.3.82-beta — 24/09/2026
+
+Bêta 0.3.82 — hotfix du système de mise à jour Android.
+
+• Vérification des mises à jour rendue plus fiable avec jusqu’à 3 tentatives automatiques.
+• Nouvelle vérification lorsque Cwollector revient au premier plan après un passage en arrière-plan.
+• Nouveau bouton « RECHERCHER UNE MISE À JOUR » dans les Réglages avec état visible.
+• Le bouton de mise à jour ouvre désormais la page officielle de la release GitHub plutôt que le téléchargement direct de l’APK, afin d’éviter les téléchargements bloqués à 100 % sur certains appareils Android.
+• Synchronisation automatique du versionCode interne de l’updater avec le versionCode Android pendant les futures releases.
+• Le saut de version reste supporté : une ancienne bêta peut passer directement à la dernière version disponible sans installer toutes les versions intermédiaires.
+
+Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 8.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.82 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.82-beta)
+
+
 ## 0.3.81-beta — 24/09/2026
 
 Bêta 0.3.81 — grosse passe de stabilisation et de finition avant ouverture plus large.

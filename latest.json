@@ -1,11 +1,11 @@
 {
   "published": true,
-  "version_name": "0.3.81-beta",
-  "version_code": 7,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.81-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.81-beta",
+  "version_name": "0.3.82-beta",
+  "version_code": 8,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.82-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.82-beta",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "2a77362334d9f59aeb4c8db844ac0495b3dc7729b81cfaac488bef90865c62f7",
-  "notes": "Bêta 0.3.81 — grosse passe de stabilisation et de finition avant ouverture plus large.\n\n• Interface mobile revue et homogénéisée : Accueil/HUD, Collection, Boutique, Missions, Événements/Roulette, Succès et fiches de cartes.\n• 89 cartes actives et 14 familles progressives complètes.\n• Succès recalibrés : 50 paliers atteignables avec le contenu actuel, migration des anciennes sauvegardes sans double récompense.\n• Missions fiabilisées : plus d'objectif de découverte impossible et meilleure gestion des 5 missions Club Cwok.\n• Pass bêta utilisables dans les builds Release : Cwollector Auto, Pack XXL, Joker Doublon, Club Cwok et Héritage Astral.\n• Pack XXL sécurisé : activer/désactiver le pass ne reroll plus le pack préchargé et ne modifie jamais le jet Secrète.\n• Joker Doublon fiabilisé pour chercher un remplacement réellement disponible.\n• Récompenses de familles complètes sécurisées et désormais signalées en jeu.\n• Prestige/Héritage Astral et familles préparés pour le futur contenu sans casser les progressions 6/6 existantes.\n• Roulette renforcée contre les tirages sauvegardés invalides, tout en conservant Cwok Roulette à 0,5 % par lancer.\n• Codes Event renforcés et maintenant conservés dans la sauvegarde principale lors des transferts.\n• Sauvegarde passée en version 21 avec migrations et réparations automatiques.\n• Nombreux correctifs Android, navigation, pagination Collection et protections anti-duplication/anti-reroll.\n\nÉquilibrage important inchangé :\n• Carte Secrète des packs : exactement 1/1000 par pack, même avec Pack XXL.\n• Cwok Roulette : 0,5 % par lancer.\n\nMerci pour les tests de la bêta ❤️"
+  "sha256": "2fed545babc6223a7f906f20a66c70f75eee35fd3f17c20695bb3b28f66f86a4",
+  "notes": "Bêta 0.3.82 — hotfix du système de mise à jour Android.\n\n• Vérification des mises à jour rendue plus fiable avec jusqu’à 3 tentatives automatiques.\n• Nouvelle vérification lorsque Cwollector revient au premier plan après un passage en arrière-plan.\n• Nouveau bouton « RECHERCHER UNE MISE À JOUR » dans les Réglages avec état visible.\n• Le bouton de mise à jour ouvre désormais la page officielle de la release GitHub plutôt que le téléchargement direct de l’APK, afin d’éviter les téléchargements bloqués à 100 % sur certains appareils Android.\n• Synchronisation automatique du versionCode interne de l’updater avec le versionCode Android pendant les futures releases.\n• Le saut de version reste supporté : une ancienne bêta peut passer directement à la dernière version disponible sans installer toutes les versions intermédiaires.\n\nAucun changement d’équilibrage ou de contenu gameplay dans cette hotfix."
 }
