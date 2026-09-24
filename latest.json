@@ -2,7 +2,7 @@
   "published": true,
   "version_name": "0.3.81-beta",
   "version_code": 7,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.81-beta/Cwollector-0.3.81-beta-signed.apk",
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.81-beta",
   "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.81-beta",
   "mandatory": false,
   "prerelease": true,
