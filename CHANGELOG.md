@@ -1,5 +1,28 @@
 # Patchnotes Cwollector
 
+## 0.3.84-beta — 25/09/2026
+
+Bêta 0.3.84 — correctif critique de l’updater Android.
+
+• Correction du crash au démarrage introduit en 0.3.83.
+• Suppression complète des appels Java/JNI réseau automatiques au lancement du jeu.
+• Vérification des mises à jour via HTTPRequest avec l’API GitHub officielle en endpoint principal et raw.githubusercontent.com en secours.
+• Retries par endpoint conservés pour fiabiliser la détection des nouvelles versions.
+• DownloadManager Android conservé uniquement au moment où l’utilisateur appuie sur « METTRE À JOUR ».
+• Contrôle des exceptions Java ajouté autour du DownloadManager afin d’éviter un crash si Android refuse une opération native.
+• Bouton de secours vers la page officielle des versions conservé.
+• Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.
+
+Cette correction a été validée sur téléphone avec une build de test : démarrage OK et vérification de version OK.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 11.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.84 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.84-beta)
+
+
 ## 0.3.83-beta — 24/09/2026
 
 Bêta 0.3.83 — refonte de l’updater Android.

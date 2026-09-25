@@ -1,12 +1,12 @@
 {
   "published": true,
-  "version_name": "0.3.83-beta",
-  "version_code": 9,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.83-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.83-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.83-beta/Cwollector-0.3.83-beta-signed.apk",
+  "version_name": "0.3.84-beta",
+  "version_code": 11,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.84-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.84-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.84-beta/Cwollector-0.3.84-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "a4bdbfe60ea1ae1db28c6ea5b55c9e822d4deee881a817b7d7145280634fa3e0",
-  "notes": "Bêta 0.3.83 — refonte de l’updater Android.\n\n• Vérification des mises à jour via les API Android natives en priorité, au lieu de dépendre uniquement de HTTPRequest Godot.\n• Utilisation de java.net.HttpURLConnection sur Android avec l’API GitHub comme endpoint principal et raw.githubusercontent.com en secours.\n• HTTPRequest Godot conservé uniquement comme dernier fallback.\n• Téléchargement des APK confié au DownloadManager Android : téléchargement en arrière-plan, reprise réseau et notification système à la fin.\n• Nouveau champ download_url dans latest.json réservé au téléchargement natif Android ; les anciennes builds continuent d’ouvrir la page officielle de release.\n• Bouton de secours « OUVRIR LA PAGE DES VERSIONS » disponible si les vérifications intégrées échouent.\n• Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.\n\nL’installation finale reste confirmée par Android."
+  "sha256": "9488445dae431d038cf78c210d7425a4933413a3cd300684762be9ed272e410b",
+  "notes": "Bêta 0.3.84 — correctif critique de l’updater Android.\n\n• Correction du crash au démarrage introduit en 0.3.83.\n• Suppression complète des appels Java/JNI réseau automatiques au lancement du jeu.\n• Vérification des mises à jour via HTTPRequest avec l’API GitHub officielle en endpoint principal et raw.githubusercontent.com en secours.\n• Retries par endpoint conservés pour fiabiliser la détection des nouvelles versions.\n• DownloadManager Android conservé uniquement au moment où l’utilisateur appuie sur « METTRE À JOUR ».\n• Contrôle des exceptions Java ajouté autour du DownloadManager afin d’éviter un crash si Android refuse une opération native.\n• Bouton de secours vers la page officielle des versions conservé.\n• Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.\n\nCette correction a été validée sur téléphone avec une build de test : démarrage OK et vérification de version OK."
 }
