@@ -1,12 +1,12 @@
 {
   "published": true,
-  "version_name": "0.3.84-beta",
-  "version_code": 11,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.84-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.84-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.84-beta/Cwollector-0.3.84-beta-signed.apk",
+  "version_name": "0.3.85-beta",
+  "version_code": 17,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.85-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.85-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.85-beta/Cwollector-0.3.85-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "9488445dae431d038cf78c210d7425a4933413a3cd300684762be9ed272e410b",
-  "notes": "Bêta 0.3.84 — correctif critique de l’updater Android.\n\n• Correction du crash au démarrage introduit en 0.3.83.\n• Suppression complète des appels Java/JNI réseau automatiques au lancement du jeu.\n• Vérification des mises à jour via HTTPRequest avec l’API GitHub officielle en endpoint principal et raw.githubusercontent.com en secours.\n• Retries par endpoint conservés pour fiabiliser la détection des nouvelles versions.\n• DownloadManager Android conservé uniquement au moment où l’utilisateur appuie sur « METTRE À JOUR ».\n• Contrôle des exceptions Java ajouté autour du DownloadManager afin d’éviter un crash si Android refuse une opération native.\n• Bouton de secours vers la page officielle des versions conservé.\n• Aucun changement d’équilibrage ou de contenu gameplay dans cette hotfix.\n\nCette correction a été validée sur téléphone avec une build de test : démarrage OK et vérification de version OK."
+  "sha256": "c95641d3b4115a91baa45444dd295b65b1356360a4f774c578415067b6b3bea6",
+  "notes": "Bêta 0.3.85 — refonte complète et fiabilisation de l’updater Android.\n\n• Suppression définitive de l’ancien chemin Java/JNI/DownloadManager.\n• Vérification des nouvelles versions via HTTPRequest avec l’API GitHub officielle et un endpoint de secours.\n• Téléchargement de l’APK directement dans Cwollector, sans ouvrir le navigateur.\n• Téléchargement streamé vers le stockage de l’application pour éviter de charger l’APK entier en mémoire.\n• Vérification SHA-256 obligatoire avant ouverture de l’installateur.\n• Ouverture de l’APK via le FileProvider Android intégré à Godot.\n• Ajout de l’autorisation Android nécessaire pour lancer l’installateur d’APK hors store.\n• Correction des couches invisibles pouvant bloquer les interactions tactiles sur l’accueil.\n• Durcissement du volet Statistiques : aucune couche fermée ne peut intercepter les touchs.\n• CI renforcée : contrôles structurels, smoke test Godot, vérification de l’endpoint public, export et signature avant publication.\n• Aucun changement d’équilibrage ou de contenu gameplay dans cette version.\n\nFlux validé sur téléphone : détection de version, téléchargement intégré, contrôle d’intégrité et ouverture de l’installateur Android fonctionnent. Lors de la première mise à jour hors store, Android peut demander d’autoriser Cwollector comme source d’installation."
 }

@@ -1,5 +1,31 @@
 # Patchnotes Cwollector
 
+## 0.3.85-beta — 25/09/2026
+
+Bêta 0.3.85 — refonte complète et fiabilisation de l’updater Android.
+
+• Suppression définitive de l’ancien chemin Java/JNI/DownloadManager.
+• Vérification des nouvelles versions via HTTPRequest avec l’API GitHub officielle et un endpoint de secours.
+• Téléchargement de l’APK directement dans Cwollector, sans ouvrir le navigateur.
+• Téléchargement streamé vers le stockage de l’application pour éviter de charger l’APK entier en mémoire.
+• Vérification SHA-256 obligatoire avant ouverture de l’installateur.
+• Ouverture de l’APK via le FileProvider Android intégré à Godot.
+• Ajout de l’autorisation Android nécessaire pour lancer l’installateur d’APK hors store.
+• Correction des couches invisibles pouvant bloquer les interactions tactiles sur l’accueil.
+• Durcissement du volet Statistiques : aucune couche fermée ne peut intercepter les touchs.
+• CI renforcée : contrôles structurels, smoke test Godot, vérification de l’endpoint public, export et signature avant publication.
+• Aucun changement d’équilibrage ou de contenu gameplay dans cette version.
+
+Flux validé sur téléphone : détection de version, téléchargement intégré, contrôle d’intégrité et ouverture de l’installateur Android fonctionnent. Lors de la première mise à jour hors store, Android peut demander d’autoriser Cwollector comme source d’installation.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 17.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.85 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.85-beta)
+
+
 ## 0.3.84-beta — 25/09/2026
 
 Bêta 0.3.84 — correctif critique de l’updater Android.
