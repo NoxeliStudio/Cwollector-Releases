@@ -8,47 +8,41 @@
   "mandatory": false,
   "prerelease": true,
   "sha256": "fdc05e757cfd98bcc55e83c027c13fef2fcb9764afa0755607d43954ee4edec9",
-  "headline": "Nouvelle progression, missions rééquilibrées et Chasse Cwollector.",
+  "headline": "Chasse Cwollector, nouvelle Maîtrise et missions rééquilibrées.",
   "sections": [
     {
       "title": "Chasse Cwollector",
       "items": [
-        "Ajout de la Chasse : jusqu’à 3 cibles mémorisées et 1 cible active.",
-        "Progression par packs sans modifier les taux de rareté.",
-        "Focus Max : quand la rareté ciblée tombe naturellement, la carte peut devenir ta cible.",
-        "Les Secrètes restent hors Chasse et conservent leur règle stricte de 1/1000 par pack.",
-        "Pack XXL et Joker Doublon sont compatibles sans permettre de reroll un pack déjà préparé."
+        "Ajoute jusqu’à 3 cartes manquantes à ta Chasse et choisis 1 cible active.",
+        "Chaque pack fait progresser ta cible et les bons tirages accélèrent la Chasse.",
+        "À Focus Max, le prochain tirage naturel de la bonne rareté devient ta cible.",
+        "Les cartes Secrètes restent hors Chasse et gardent leur taux strict de 1/1000 par pack."
       ]
     },
     {
       "title": "Maîtrise & niveaux",
       "items": [
-        "Nouvelle courbe de Maîtrise exponentielle contrôlée du niveau 1 au 500.",
-        "XP revalorisée selon la rareté : les gros drops font réellement avancer la barre.",
-        "Récompense automatique à chaque niveau, avec paliers renforcés tous les 5, 10, 25 et 100 niveaux.",
-        "Nouvelles célébrations pour les familles débloquées, le cap des taux et la Maîtrise 500.",
-        "Migration des anciennes sauvegardes en conservant le niveau et l’avancement dans le niveau."
+        "La progression de Maîtrise a été entièrement revue jusqu’au niveau 500.",
+        "Les cartes Épiques, Légendaires, Mythiques et Secrètes donnent désormais beaucoup plus d’XP.",
+        "Chaque niveau donne maintenant une récompense, avec de gros paliers réguliers."
       ]
     },
     {
-      "title": "Missions & équilibrage",
+      "title": "Missions",
       "items": [
-        "Rééquilibrage complet des missions quotidiennes selon le niveau de Maîtrise.",
-        "Suppression des objectifs Mythiques/Secrètes pouvant demander des milliers de packs.",
-        "Durée des missions harmonisée entre ouverture, XP, doublons, Fragments et évolutions.",
-        "Le compteur de Fragments des doublons n’est plus gonflé par les récompenses de Roulette.",
-        "L’économie a été simulée en F2P et avec les pass pour conserver un F2P viable tout en récompensant l’accélération premium."
+        "Les missions quotidiennes sont maintenant adaptées à ta progression.",
+        "Les objectifs beaucoup trop longs en Mythique et Secrète ont été supprimés.",
+        "Les différents types de missions demandent désormais un effort plus cohérent."
       ]
     },
     {
-      "title": "Stabilité",
+      "title": "Correctifs",
       "items": [
-        "Sauvegarde passée en version 23 avec persistance de la Chasse.",
-        "Bouton Retour Android corrigé dans la Collection et le gestionnaire de Chasse.",
-        "Compatibilité vérifiée avec les anciens pending packs, Pack XXL, Joker, packs garantis et mises à jour de sauvegarde.",
-        "Pipeline Android renforcé contre les blocages de smoke-test."
+        "Le compteur de Fragments gagnés via les doublons est maintenant plus précis.",
+        "La navigation Retour sur Android a été améliorée dans la Collection.",
+        "Ta progression existante est conservée avec la nouvelle Maîtrise."
       ]
     }
   ],
-  "notes": "Bêta 0.3.86 — grosse mise à jour de progression et d’équilibrage.\n\n• Nouvelle Chasse Cwollector pour cibler les cartes manquantes Commun à Mythique sans modifier les taux de rareté.\n• Nouvelle courbe de Maîtrise jusqu’au niveau 500, XP par rareté revalorisée et récompenses automatiques à chaque niveau.\n• Missions quotidiennes entièrement rééquilibrées pour supprimer les objectifs disproportionnés.\n• Correction du compteur de Fragments issus des doublons.\n• Sauvegarde v23 et nombreuses protections de compatibilité avec XXL, Joker, pending packs et Android.\n\nLa Secrète reste strictement à 1/1000 par pack et reste exclue de la Chasse."
+  "notes": "Bêta 0.3.86 — nouvelle progression et Chasse Cwollector.\n\n• Chasse Cwollector : cible jusqu’à 3 cartes manquantes et active 1 cible à la fois.\n• Nouvelle Maîtrise jusqu’au niveau 500 avec XP revalorisée et récompenses à chaque niveau.\n• Missions quotidiennes rééquilibrées pour éviter les objectifs disproportionnés.\n• Plusieurs correctifs de Collection et de compteurs.\n\nLes cartes Secrètes restent strictement à 1/1000 par pack et sont exclues de la Chasse."
 }
