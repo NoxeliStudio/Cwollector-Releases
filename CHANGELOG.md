@@ -1,5 +1,25 @@
 # Patchnotes Cwollector
 
+## 0.3.86-beta — 26/09/2026
+
+Bêta 0.3.86 — grosse mise à jour de progression et d’équilibrage.
+
+• Nouvelle Chasse Cwollector pour cibler les cartes manquantes Commun à Mythique sans modifier les taux de rareté.
+• Nouvelle courbe de Maîtrise jusqu’au niveau 500, XP par rareté revalorisée et récompenses automatiques à chaque niveau.
+• Missions quotidiennes entièrement rééquilibrées pour supprimer les objectifs disproportionnés.
+• Correction du compteur de Fragments issus des doublons.
+• Sauvegarde v23 et nombreuses protections de compatibilité avec XXL, Joker, pending packs et Android.
+
+La Secrète reste strictement à 1/1000 par pack et reste exclue de la Chasse.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 18.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.86 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.86-beta)
+
+
 ## 0.3.85-beta — 25/09/2026
 
 Bêta 0.3.85 — refonte complète et fiabilisation de l’updater Android.

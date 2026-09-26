@@ -1,12 +1,54 @@
 {
   "published": true,
-  "version_name": "0.3.85-beta",
-  "version_code": 17,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.85-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.85-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.85-beta/Cwollector-0.3.85-beta-signed.apk",
+  "version_name": "0.3.86-beta",
+  "version_code": 18,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.86-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.86-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.86-beta/Cwollector-0.3.86-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "c95641d3b4115a91baa45444dd295b65b1356360a4f774c578415067b6b3bea6",
-  "notes": "Bêta 0.3.85 — refonte complète et fiabilisation de l’updater Android.\n\n• Suppression définitive de l’ancien chemin Java/JNI/DownloadManager.\n• Vérification des nouvelles versions via HTTPRequest avec l’API GitHub officielle et un endpoint de secours.\n• Téléchargement de l’APK directement dans Cwollector, sans ouvrir le navigateur.\n• Téléchargement streamé vers le stockage de l’application pour éviter de charger l’APK entier en mémoire.\n• Vérification SHA-256 obligatoire avant ouverture de l’installateur.\n• Ouverture de l’APK via le FileProvider Android intégré à Godot.\n• Ajout de l’autorisation Android nécessaire pour lancer l’installateur d’APK hors store.\n• Correction des couches invisibles pouvant bloquer les interactions tactiles sur l’accueil.\n• Durcissement du volet Statistiques : aucune couche fermée ne peut intercepter les touchs.\n• CI renforcée : contrôles structurels, smoke test Godot, vérification de l’endpoint public, export et signature avant publication.\n• Aucun changement d’équilibrage ou de contenu gameplay dans cette version.\n\nFlux validé sur téléphone : détection de version, téléchargement intégré, contrôle d’intégrité et ouverture de l’installateur Android fonctionnent. Lors de la première mise à jour hors store, Android peut demander d’autoriser Cwollector comme source d’installation."
+  "sha256": "fdc05e757cfd98bcc55e83c027c13fef2fcb9764afa0755607d43954ee4edec9",
+  "headline": "Nouvelle progression, missions rééquilibrées et Chasse Cwollector.",
+  "sections": [
+    {
+      "title": "Chasse Cwollector",
+      "items": [
+        "Ajout de la Chasse : jusqu’à 3 cibles mémorisées et 1 cible active.",
+        "Progression par packs sans modifier les taux de rareté.",
+        "Focus Max : quand la rareté ciblée tombe naturellement, la carte peut devenir ta cible.",
+        "Les Secrètes restent hors Chasse et conservent leur règle stricte de 1/1000 par pack.",
+        "Pack XXL et Joker Doublon sont compatibles sans permettre de reroll un pack déjà préparé."
+      ]
+    },
+    {
+      "title": "Maîtrise & niveaux",
+      "items": [
+        "Nouvelle courbe de Maîtrise exponentielle contrôlée du niveau 1 au 500.",
+        "XP revalorisée selon la rareté : les gros drops font réellement avancer la barre.",
+        "Récompense automatique à chaque niveau, avec paliers renforcés tous les 5, 10, 25 et 100 niveaux.",
+        "Nouvelles célébrations pour les familles débloquées, le cap des taux et la Maîtrise 500.",
+        "Migration des anciennes sauvegardes en conservant le niveau et l’avancement dans le niveau."
+      ]
+    },
+    {
+      "title": "Missions & équilibrage",
+      "items": [
+        "Rééquilibrage complet des missions quotidiennes selon le niveau de Maîtrise.",
+        "Suppression des objectifs Mythiques/Secrètes pouvant demander des milliers de packs.",
+        "Durée des missions harmonisée entre ouverture, XP, doublons, Fragments et évolutions.",
+        "Le compteur de Fragments des doublons n’est plus gonflé par les récompenses de Roulette.",
+        "L’économie a été simulée en F2P et avec les pass pour conserver un F2P viable tout en récompensant l’accélération premium."
+      ]
+    },
+    {
+      "title": "Stabilité",
+      "items": [
+        "Sauvegarde passée en version 23 avec persistance de la Chasse.",
+        "Bouton Retour Android corrigé dans la Collection et le gestionnaire de Chasse.",
+        "Compatibilité vérifiée avec les anciens pending packs, Pack XXL, Joker, packs garantis et mises à jour de sauvegarde.",
+        "Pipeline Android renforcé contre les blocages de smoke-test."
+      ]
+    }
+  ],
+  "notes": "Bêta 0.3.86 — grosse mise à jour de progression et d’équilibrage.\n\n• Nouvelle Chasse Cwollector pour cibler les cartes manquantes Commun à Mythique sans modifier les taux de rareté.\n• Nouvelle courbe de Maîtrise jusqu’au niveau 500, XP par rareté revalorisée et récompenses automatiques à chaque niveau.\n• Missions quotidiennes entièrement rééquilibrées pour supprimer les objectifs disproportionnés.\n• Correction du compteur de Fragments issus des doublons.\n• Sauvegarde v23 et nombreuses protections de compatibilité avec XXL, Joker, pending packs et Android.\n\nLa Secrète reste strictement à 1/1000 par pack et reste exclue de la Chasse."
 }
