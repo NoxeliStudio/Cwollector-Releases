@@ -1,5 +1,26 @@
 # Patchnotes Cwollector
 
+## 0.3.87-beta — 04/10/2026
+
+Bêta 0.3.87 — Profil simplifié et expérience mobile repensée.
+
+• Refonte visuelle du Profil, des Stats et des Réglages.
+• Suppression du système de cadres cosmétiques du Profil.
+• Nouveau sélecteur de carte par pages 3 × 3, sans scroll.
+• Nouveau splash Noxeli Studio puis chargement Cwollector simplifié.
+• Correction de la transition vers le jeu et des artefacts noirs sur les cartes.
+• Activation de la permission Android VIBRATE pour le retour haptique.
+
+Cette version reste en bêta et conserve toute la progression existante.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 19.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.87 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.87-beta)
+
+
 ## 0.3.86-beta — 26/09/2026
 
 Bêta 0.3.86 — grosse mise à jour de progression et d’équilibrage.

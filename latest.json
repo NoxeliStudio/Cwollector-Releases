@@ -1,48 +1,48 @@
 {
   "published": true,
-  "version_name": "0.3.86-beta",
-  "version_code": 18,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.86-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.86-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.86-beta/Cwollector-0.3.86-beta-signed.apk",
+  "version_name": "0.3.87-beta",
+  "version_code": 19,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.87-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.87-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.87-beta/Cwollector-0.3.87-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "fdc05e757cfd98bcc55e83c027c13fef2fcb9764afa0755607d43954ee4edec9",
-  "headline": "Chasse Cwollector, nouvelle Maîtrise et missions rééquilibrées.",
+  "sha256": "98301c374d2caab15718ca35bcbb78fbd6dae888dce97d6573a92428d4f82771",
+  "headline": "Profil simplifié, sélection de carte repensée et nouveau démarrage.",
   "sections": [
     {
-      "title": "Chasse Cwollector",
+      "title": "Espace joueur",
       "items": [
-        "Ajoute jusqu’à 3 cartes manquantes à ta Chasse et choisis 1 cible active.",
-        "Chaque pack fait progresser ta cible et les bons tirages accélèrent la Chasse.",
-        "À Focus Max, le prochain tirage naturel de la bonne rareté devient ta cible.",
-        "Les cartes Secrètes restent hors Chasse et gardent leur taux strict de 1/1000 par pack."
+        "Le Profil a été entièrement retravaillé avec une carte affichée plus grande et une présentation plus dense.",
+        "Les onglets Profil, Succès, Stats et Réglages gagnent une identité visuelle cohérente avec de nouvelles icônes.",
+        "Les pages Stats et Réglages ont été modernisées avec une meilleure hiérarchie, de nouvelles tuiles et des contrôles plus lisibles."
       ]
     },
     {
-      "title": "Maîtrise & niveaux",
+      "title": "Profil & carte affichée",
       "items": [
-        "La progression de Maîtrise a été entièrement revue jusqu’au niveau 500.",
-        "Les cartes Épiques, Légendaires, Mythiques et Secrètes donnent désormais beaucoup plus d’XP.",
-        "Chaque niveau donne maintenant une récompense, avec de gros paliers réguliers."
+        "Le système de cadres cosmétiques a été retiré pour garder un Profil plus propre et plus cohérent.",
+        "Le sélecteur de carte n'utilise plus de scroll : les cartes découvertes sont présentées dans une galerie paginée 3 × 3.",
+        "Ajout des aperçus Collection, Packs, Familles et Succès directement dans le Profil.",
+        "Correction des bords et coins des cartes de profil pour supprimer les artefacts noirs."
       ]
     },
     {
-      "title": "Missions",
+      "title": "Démarrage",
       "items": [
-        "Les missions quotidiennes sont maintenant adaptées à ta progression.",
-        "Les objectifs beaucoup trop longs en Mythique et Secrète ont été supprimés.",
-        "Les différents types de missions demandent désormais un effort plus cohérent."
+        "Nouveau splash Noxeli Studio sur fond noir avec apparition et disparition progressives.",
+        "Nouvel écran de chargement Cwollector simplifié, sans phrases aléatoires ni éléments visuels parasites.",
+        "La transition entre chargement et jeu a été revue pour éviter l'écran noir intermédiaire."
       ]
     },
     {
-      "title": "Correctifs",
+      "title": "Correctifs & confort",
       "items": [
-        "Le compteur de Fragments gagnés via les doublons est maintenant plus précis.",
-        "La navigation Retour sur Android a été améliorée dans la Collection.",
-        "Ta progression existante est conservée avec la nouvelle Maîtrise."
+        "Le système de vibrations Android utilise désormais la permission VIBRATE dans l'APK exporté.",
+        "Le retour haptique est contrôlable depuis les Réglages.",
+        "Nettoyage de plusieurs warnings Godot et harmonisation de l'interface mobile."
       ]
     }
   ],
-  "notes": "Bêta 0.3.86 — nouvelle progression et Chasse Cwollector.\n\n• Chasse Cwollector : cible jusqu’à 3 cartes manquantes et active 1 cible à la fois.\n• Nouvelle Maîtrise jusqu’au niveau 500 avec XP revalorisée et récompenses à chaque niveau.\n• Missions quotidiennes rééquilibrées pour éviter les objectifs disproportionnés.\n• Plusieurs correctifs de Collection et de compteurs.\n\nLes cartes Secrètes restent strictement à 1/1000 par pack et sont exclues de la Chasse."
+  "notes": "Bêta 0.3.87 — Profil simplifié et expérience mobile repensée.\n\n• Refonte visuelle du Profil, des Stats et des Réglages.\n• Suppression du système de cadres cosmétiques du Profil.\n• Nouveau sélecteur de carte par pages 3 × 3, sans scroll.\n• Nouveau splash Noxeli Studio puis chargement Cwollector simplifié.\n• Correction de la transition vers le jeu et des artefacts noirs sur les cartes.\n• Activation de la permission Android VIBRATE pour le retour haptique.\n\nCette version reste en bêta et conserve toute la progression existante."
 }
