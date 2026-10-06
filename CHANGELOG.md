@@ -2,6 +2,33 @@
 
 ## 0.3.88-beta — 06/10/2026
 
+❤️ COMPAGNON
+• Choisis un Cwok possédé pour vivre à tes côtés sur l’Accueil.
+• Caresse-le, développe son affection, profite de ses dialogues et récupère son cadeau quotidien.
+• Il réagit aussi à tes ouvertures et à tes plus belles cartes.
+
+🧭 EXPÉDITIONS
+• Forme des équipes de 3 Cwoks et pars vers la Mine, la Tour des arcanes, le Port des pirates ou le Dojo caché.
+• Durées disponibles : 15 min, 1 h, 4 h et 8 h.
+• Rareté, Prestige, famille et synergie influencent les chances de réussite.
+• Au retour : Fragments, Maîtrise, Tickets, Packs et récits de voyage selon l’expédition.
+
+✨ PROFIL & FINITIONS
+• Vitrine personnalisable resynchronisée et sauvegardée correctement.
+• Interface des Expéditions peaufinée pour mobile.
+• Corrections de compatibilité Godot 4.7.2 et lancement fiabilisé.
+• Le tri des cartes par rareté pendant les ouvertures reste conservé, sans modifier les taux de drop.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 23.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.88 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta)
+
+
+## 0.3.88-beta — 06/10/2026
+
 ✨ PROFIL & VITRINE
 • Vitrine personnalisable : choisis jusqu’à 3 cartes possédées, affichées dans l’ordre de sélection de gauche à droite.
 • Bouton AUTO pour revenir aux 3 meilleures cartes automatiquement.

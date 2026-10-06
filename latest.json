@@ -1,31 +1,40 @@
 {
   "published": true,
   "version_name": "0.3.88-beta",
-  "version_code": 22,
+  "version_code": 23,
   "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta",
   "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta",
   "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.88-beta/Cwollector-0.3.88-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "ad05ea9ef3f40d7344dcffdcc63d14228d369450eb0b3e590cc84b6f3166566c",
-  "headline": "Vitrine personnalisable & ouvertures plus intenses ✨",
+  "sha256": "1cfedf2c0e7ebf10a84ada7c1575635baf5a0c777acc7894793689b10614a522",
+  "headline": "Le Compagnon arrive & les Expéditions ouvrent leurs portes 🧭",
   "sections": [
     {
-      "title": "PROFIL & VITRINE",
+      "title": "COMPAGNON",
       "items": [
-        "Choisis jusqu’à 3 cartes possédées pour composer ta Vitrine, dans l’ordre gauche → droite.",
-        "Le bouton AUTO remet instantanément les 3 meilleures cartes.",
-        "La carte de profil est légèrement agrandie pour mieux profiter de l’illustration en bannière."
+        "Choisis un Cwok possédé pour vivre à tes côtés sur l’Accueil.",
+        "Caresse-le, fais monter son affection, découvre ses dialogues et récupère son cadeau quotidien.",
+        "Ton compagnon réagit aussi à tes ouvertures et aux cartes marquantes que tu obtiens."
       ]
     },
     {
-      "title": "OUVERTURE DES CARTES",
+      "title": "EXPÉDITIONS",
       "items": [
-        "Les cartes d’un tirage sont désormais révélées de la moins rare à la plus rare.",
-        "Les meilleures raretés restent pour la fin : plus le pack avance, plus le suspense monte.",
-        "Aucun taux de drop ni aucune récompense n’a été modifié."
+        "Envoie des équipes de 3 Cwoks explorer la Mine, la Tour des arcanes, le Port des pirates ou le Dojo caché.",
+        "Choisis des expéditions de 15 min, 1 h, 4 h ou 8 h avec des récompenses adaptées au risque et à la durée.",
+        "Rareté, Prestige, famille du lieu et synergie d’équipe influencent les chances de réussite.",
+        "Fragments, Maîtrise, Tickets, Packs et récits de voyage peuvent être rapportés au retour."
+      ]
+    },
+    {
+      "title": "PROFIL & FINITIONS",
+      "items": [
+        "La Vitrine personnalisable reste synchronisée et sauvegardée correctement.",
+        "Les fenêtres et le défilement des Expéditions ont été peaufinés pour mobile.",
+        "Compatibilité Godot 4.7.2 et fiabilité du lancement améliorées."
       ]
     }
   ],
-  "notes": "✨ PROFIL & VITRINE\n• Vitrine personnalisable : choisis jusqu’à 3 cartes possédées, affichées dans l’ordre de sélection de gauche à droite.\n• Bouton AUTO pour revenir aux 3 meilleures cartes automatiquement.\n• Carte de profil légèrement agrandie pour mieux voir l’illustration en bannière.\n\n🎴 OUVERTURE DES CARTES\n• Les cartes sont maintenant révélées de la moins rare à la plus rare.\n• Les grosses raretés restent pour la fin afin de renforcer le suspense.\n• Aucun taux de drop ni aucune récompense n’a été modifié."
+  "notes": "❤️ COMPAGNON\n• Choisis un Cwok possédé pour vivre à tes côtés sur l’Accueil.\n• Caresse-le, développe son affection, profite de ses dialogues et récupère son cadeau quotidien.\n• Il réagit aussi à tes ouvertures et à tes plus belles cartes.\n\n🧭 EXPÉDITIONS\n• Forme des équipes de 3 Cwoks et pars vers la Mine, la Tour des arcanes, le Port des pirates ou le Dojo caché.\n• Durées disponibles : 15 min, 1 h, 4 h et 8 h.\n• Rareté, Prestige, famille et synergie influencent les chances de réussite.\n• Au retour : Fragments, Maîtrise, Tickets, Packs et récits de voyage selon l’expédition.\n\n✨ PROFIL & FINITIONS\n• Vitrine personnalisable resynchronisée et sauvegardée correctement.\n• Interface des Expéditions peaufinée pour mobile.\n• Corrections de compatibilité Godot 4.7.2 et lancement fiabilisé.\n• Le tri des cartes par rareté pendant les ouvertures reste conservé, sans modifier les taux de drop."
 }
