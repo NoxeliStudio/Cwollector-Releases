@@ -1,5 +1,19 @@
 # Patchnotes Cwollector
 
+## 0.3.88-beta — 06/10/2026
+
+Cwollector 0.3.88 Beta.
+
+Publication de la version finale validée en test local.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 21.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.88 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta)
+
+
 ## 0.3.87-beta — 04/10/2026
 
 Bêta 0.3.87 — Profil simplifié et expérience mobile repensée.
