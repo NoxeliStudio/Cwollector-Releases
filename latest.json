@@ -1,14 +1,31 @@
 {
   "published": true,
   "version_name": "0.3.88-beta",
-  "version_code": 21,
+  "version_code": 22,
   "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta",
   "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta",
   "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.88-beta/Cwollector-0.3.88-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "ce2b8eaee2dac3ba67fc4ed3c5a0c70322a58eb33d2a1f7aff92caacabc6cc5c",
-  "headline": "Nouvelle version de Cwollector.",
-  "sections": [],
-  "notes": "Cwollector 0.3.88 Beta.\n\nPublication de la version finale validée en test local."
+  "sha256": "ad05ea9ef3f40d7344dcffdcc63d14228d369450eb0b3e590cc84b6f3166566c",
+  "headline": "Vitrine personnalisable & ouvertures plus intenses ✨",
+  "sections": [
+    {
+      "title": "PROFIL & VITRINE",
+      "items": [
+        "Choisis jusqu’à 3 cartes possédées pour composer ta Vitrine, dans l’ordre gauche → droite.",
+        "Le bouton AUTO remet instantanément les 3 meilleures cartes.",
+        "La carte de profil est légèrement agrandie pour mieux profiter de l’illustration en bannière."
+      ]
+    },
+    {
+      "title": "OUVERTURE DES CARTES",
+      "items": [
+        "Les cartes d’un tirage sont désormais révélées de la moins rare à la plus rare.",
+        "Les meilleures raretés restent pour la fin : plus le pack avance, plus le suspense monte.",
+        "Aucun taux de drop ni aucune récompense n’a été modifié."
+      ]
+    }
+  ],
+  "notes": "✨ PROFIL & VITRINE\n• Vitrine personnalisable : choisis jusqu’à 3 cartes possédées, affichées dans l’ordre de sélection de gauche à droite.\n• Bouton AUTO pour revenir aux 3 meilleures cartes automatiquement.\n• Carte de profil légèrement agrandie pour mieux voir l’illustration en bannière.\n\n🎴 OUVERTURE DES CARTES\n• Les cartes sont maintenant révélées de la moins rare à la plus rare.\n• Les grosses raretés restent pour la fin afin de renforcer le suspense.\n• Aucun taux de drop ni aucune récompense n’a été modifié."
 }

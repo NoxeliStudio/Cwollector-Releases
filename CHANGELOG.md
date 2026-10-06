@@ -2,6 +2,26 @@
 
 ## 0.3.88-beta — 06/10/2026
 
+✨ PROFIL & VITRINE
+• Vitrine personnalisable : choisis jusqu’à 3 cartes possédées, affichées dans l’ordre de sélection de gauche à droite.
+• Bouton AUTO pour revenir aux 3 meilleures cartes automatiquement.
+• Carte de profil légèrement agrandie pour mieux voir l’illustration en bannière.
+
+🎴 OUVERTURE DES CARTES
+• Les cartes sont maintenant révélées de la moins rare à la plus rare.
+• Les grosses raretés restent pour la fin afin de renforcer le suspense.
+• Aucun taux de drop ni aucune récompense n’a été modifié.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 22.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.88 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.88-beta)
+
+
+## 0.3.88-beta — 06/10/2026
+
 Cwollector 0.3.88 Beta.
 
 Publication de la version finale validée en test local.
