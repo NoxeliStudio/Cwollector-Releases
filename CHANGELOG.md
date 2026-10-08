@@ -1,5 +1,23 @@
 # Patchnotes Cwollector
 
+## 0.3.94-beta — 08/10/2026
+
+🎵 MUSIQUE & SON
+• Nouvelle musique d'ambiance : un jardin zen, flûte et cordes pincées… et quelques chats bien cachés.
+• Profil › Réglages › Audio : la musique, les sons des packs et cartes et ceux de l'interface se règlent et se coupent séparément.
+
+🎁 CODES
+• Les codes cadeaux sont maintenant protégés : ils sont plus longs, copie-les en entier et utilise le bouton COLLER dans Profil › Réglages › Codes.
+• Les anciens codes courts ne fonctionnent plus : si tu en avais un, demande-en un nouveau.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 29.
+- Statut pré-release : true.
+- Mise à jour obligatoire : true.
+
+Téléchargement officiel : [Cwollector 0.3.94 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.94-beta)
+
+
 ## 0.3.93-beta — 08/10/2026
 
 🏠 ACCUEIL
