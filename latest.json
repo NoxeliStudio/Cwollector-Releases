@@ -1,29 +1,24 @@
 {
   "published": true,
-  "version_name": "0.3.94-beta",
-  "version_code": 29,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.94-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.94-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.94-beta/Cwollector-0.3.94-beta-signed.apk",
-  "mandatory": true,
+  "version_name": "0.3.95-beta",
+  "version_code": 30,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.95-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.95-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.95-beta/Cwollector-0.3.95-beta-signed.apk",
+  "mandatory": false,
   "prerelease": true,
-  "sha256": "269ff6cb3c95c70d539b573300882783df38741253c8bfab51c48c3c3016c3e8",
-  "headline": "Nouvelle musique zen et codes cadeaux sécurisés 🎵",
+  "sha256": "dc9eb450f744c6617ce5c623506d7915ad0499f60989ccef7260eb7dde0f2ce0",
+  "headline": "Expéditions : 5 difficultés et la Forge du volcan 🧭",
   "sections": [
     {
-      "title": "MUSIQUE & SON",
+      "title": "EXPÉDITIONS",
       "items": [
-        "Nouvelle musique d'ambiance : un jardin zen, flûte et cordes pincées… et quelques chats bien cachés.",
-        "Profil › Réglages › Audio : la musique, les sons des packs et cartes et ceux de l'interface se règlent et se coupent séparément."
-      ]
-    },
-    {
-      "title": "CODES",
-      "items": [
-        "Les codes cadeaux sont maintenant protégés : ils sont plus longs, copie-les en entier et utilise le bouton COLLER dans Profil › Réglages › Codes.",
-        "Les anciens codes courts ne fonctionnent plus : si tu en avais un, demande-en un nouveau."
+        "5 lieux et 5 niveaux de difficulté : de la Mine de cristal (★) à la nouvelle Forge du volcan (★★★★★).",
+        "Plus le lieu est difficile et l'expédition longue, plus les récompenses sont grosses : jusqu'à des packs Mythiques.",
+        "Préparation repensée : le lieu choisi s'affiche en grand et l'équipe se choisit dans une fenêtre dédiée (Cwoks conseillés, métier du lieu, ou tous).",
+        "Le bouton « Partir à l'aventure » et la chance de réussite restent toujours visibles en bas."
       ]
     }
   ],
-  "notes": "🎵 MUSIQUE & SON\n• Nouvelle musique d'ambiance : un jardin zen, flûte et cordes pincées… et quelques chats bien cachés.\n• Profil › Réglages › Audio : la musique, les sons des packs et cartes et ceux de l'interface se règlent et se coupent séparément.\n\n🎁 CODES\n• Les codes cadeaux sont maintenant protégés : ils sont plus longs, copie-les en entier et utilise le bouton COLLER dans Profil › Réglages › Codes.\n• Les anciens codes courts ne fonctionnent plus : si tu en avais un, demande-en un nouveau."
+  "notes": "🧭 EXPÉDITIONS\n• 5 lieux et 5 niveaux de difficulté : de la Mine de cristal (★) à la nouvelle Forge du volcan (★★★★★).\n• Plus le lieu est difficile et l'expédition longue, plus les récompenses sont grosses : jusqu'à des packs Mythiques.\n• Préparation repensée : le lieu choisi s'affiche en grand et l'équipe se choisit dans une fenêtre dédiée (Cwoks conseillés, métier du lieu, ou tous).\n• Le bouton « Partir à l'aventure » et la chance de réussite restent toujours visibles en bas."
 }

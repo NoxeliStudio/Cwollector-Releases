@@ -1,5 +1,21 @@
 # Patchnotes Cwollector
 
+## 0.3.95-beta — 08/10/2026
+
+🧭 EXPÉDITIONS
+• 5 lieux et 5 niveaux de difficulté : de la Mine de cristal (★) à la nouvelle Forge du volcan (★★★★★).
+• Plus le lieu est difficile et l'expédition longue, plus les récompenses sont grosses : jusqu'à des packs Mythiques.
+• Préparation repensée : le lieu choisi s'affiche en grand et l'équipe se choisit dans une fenêtre dédiée (Cwoks conseillés, métier du lieu, ou tous).
+• Le bouton « Partir à l'aventure » et la chance de réussite restent toujours visibles en bas.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 30.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.95 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.95-beta)
+
+
 ## 0.3.94-beta — 08/10/2026
 
 🎵 MUSIQUE & SON
