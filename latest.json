@@ -1,36 +1,29 @@
 {
   "published": true,
-  "version_name": "0.3.91-beta",
-  "version_code": 26,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.91-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.91-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.91-beta/Cwollector-0.3.91-beta-signed.apk",
+  "version_name": "0.3.92-beta",
+  "version_code": 27,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.92-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.92-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.92-beta/Cwollector-0.3.92-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "915a3dd1b8b13182ab556a6cb961f4a9fdf8dc3af06f2ac7ecfae7ae10d4166f",
-  "headline": "Compagnons repensés et sauvegarde transférable 🐾",
+  "sha256": "94884ac67f02a6f6a0e21851629ad3c95eb6bfa29b40a4f6337a2695cfbae007",
+  "headline": "Codes cadeaux et codes événement 🎁",
   "sections": [
     {
-      "title": "COMPAGNONS",
+      "title": "CODES",
       "items": [
-        "Un compagnon par famille : il prend l'apparence de ta carte la plus rare et évolue avec elle.",
-        "Les compagnons Mythiques et Secrets ont maintenant une aura.",
-        "Nouveau cadeau du jour en série de 7 jours : un Ticket Roulette au jour 3 et un pack garanti au jour 7."
+        "Réglages > Codes : ton numéro de joueur s'affiche. Il te permet de recevoir des codes cadeaux rien que pour toi.",
+        "Les codes événement peuvent maintenant arriver à tout moment, sans mise à jour. Garde un œil sur le Discord !"
       ]
     },
     {
-      "title": "SAUVEGARDE",
+      "title": "COLLECTION",
       "items": [
-        "Réglages > Sauvegarde : copie ton code pour retrouver ta partie sur un nouveau téléphone."
-      ]
-    },
-    {
-      "title": "CARTES",
-      "items": [
-        "Les cartes Cwok TikTok, YouTube et Twitch sont retirées : si tu les avais, tu reçois 1 500 Fragments par carte.",
-        "La famille Discord s'appelle désormais Cwok Communauté."
+        "La famille Communauté porte enfin son nom partout dans la Collection.",
+        "Le filtre des familles suit maintenant l'ordre du jeu."
       ]
     }
   ],
-  "notes": "🐾 COMPAGNONS\n• Un compagnon par famille : il prend l'apparence de ta carte la plus rare et évolue avec elle.\n• Les compagnons Mythiques et Secrets ont maintenant une aura.\n• Nouveau cadeau du jour en série de 7 jours : un Ticket Roulette au jour 3 et un pack garanti au jour 7.\n\n💾 SAUVEGARDE\n• Réglages > Sauvegarde : copie ton code pour retrouver ta partie sur un nouveau téléphone.\n\n🎴 CARTES\n• Les cartes Cwok TikTok, YouTube et Twitch sont retirées : si tu les avais, tu reçois 1 500 Fragments par carte.\n• La famille Discord s'appelle désormais Cwok Communauté."
+  "notes": "🎁 CODES\n• Réglages > Codes : ton numéro de joueur s'affiche. Il te permet de recevoir des codes cadeaux rien que pour toi.\n• Les codes événement peuvent maintenant arriver à tout moment, sans mise à jour. Garde un œil sur le Discord !\n\n🎴 COLLECTION\n• La famille Communauté porte enfin son nom partout dans la Collection.\n• Le filtre des familles suit maintenant l'ordre du jeu."
 }

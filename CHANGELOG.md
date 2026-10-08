@@ -1,5 +1,23 @@
 # Patchnotes Cwollector
 
+## 0.3.92-beta — 08/10/2026
+
+🎁 CODES
+• Réglages > Codes : ton numéro de joueur s'affiche. Il te permet de recevoir des codes cadeaux rien que pour toi.
+• Les codes événement peuvent maintenant arriver à tout moment, sans mise à jour. Garde un œil sur le Discord !
+
+🎴 COLLECTION
+• La famille Communauté porte enfin son nom partout dans la Collection.
+• Le filtre des familles suit maintenant l'ordre du jeu.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 27.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.92 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.92-beta)
+
+
 ## 0.3.91-beta — 08/10/2026
 
 🐾 COMPAGNONS
