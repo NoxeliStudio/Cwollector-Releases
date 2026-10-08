@@ -1,22 +1,36 @@
 {
   "published": true,
-  "version_name": "0.3.90-beta",
-  "version_code": 25,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.90-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.90-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.90-beta/Cwollector-0.3.90-beta-signed.apk",
+  "version_name": "0.3.91-beta",
+  "version_code": 26,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.91-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.91-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.91-beta/Cwollector-0.3.91-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "a723bd847d387001710e75f231e3429317621dea3ac558bf310589cc3957f2b2",
-  "headline": "Une fenêtre de mise à jour toute neuve ✨",
+  "sha256": "915a3dd1b8b13182ab556a6cb961f4a9fdf8dc3af06f2ac7ecfae7ae10d4166f",
+  "headline": "Compagnons repensés et sauvegarde transférable 🐾",
   "sections": [
     {
-      "title": "INTERFACE",
+      "title": "COMPAGNONS",
       "items": [
-        "La fenêtre des mises à jour est plus grande et plus lisible, et elle défile en douceur.",
-        "Chaque rubrique des nouveautés a désormais sa propre icône."
+        "Un compagnon par famille : il prend l'apparence de ta carte la plus rare et évolue avec elle.",
+        "Les compagnons Mythiques et Secrets ont maintenant une aura.",
+        "Nouveau cadeau du jour en série de 7 jours : un Ticket Roulette au jour 3 et un pack garanti au jour 7."
+      ]
+    },
+    {
+      "title": "SAUVEGARDE",
+      "items": [
+        "Réglages > Sauvegarde : copie ton code pour retrouver ta partie sur un nouveau téléphone."
+      ]
+    },
+    {
+      "title": "CARTES",
+      "items": [
+        "Les cartes Cwok TikTok, YouTube et Twitch sont retirées : si tu les avais, tu reçois 1 500 Fragments par carte.",
+        "La famille Discord s'appelle désormais Cwok Communauté."
       ]
     }
   ],
-  "notes": "✨ INTERFACE\n• La fenêtre des mises à jour est plus grande et plus lisible, et elle défile en douceur.\n• Chaque rubrique des nouveautés a désormais sa propre icône."
+  "notes": "🐾 COMPAGNONS\n• Un compagnon par famille : il prend l'apparence de ta carte la plus rare et évolue avec elle.\n• Les compagnons Mythiques et Secrets ont maintenant une aura.\n• Nouveau cadeau du jour en série de 7 jours : un Ticket Roulette au jour 3 et un pack garanti au jour 7.\n\n💾 SAUVEGARDE\n• Réglages > Sauvegarde : copie ton code pour retrouver ta partie sur un nouveau téléphone.\n\n🎴 CARTES\n• Les cartes Cwok TikTok, YouTube et Twitch sont retirées : si tu les avais, tu reçois 1 500 Fragments par carte.\n• La famille Discord s'appelle désormais Cwok Communauté."
 }

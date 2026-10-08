@@ -1,5 +1,27 @@
 # Patchnotes Cwollector
 
+## 0.3.91-beta — 08/10/2026
+
+🐾 COMPAGNONS
+• Un compagnon par famille : il prend l'apparence de ta carte la plus rare et évolue avec elle.
+• Les compagnons Mythiques et Secrets ont maintenant une aura.
+• Nouveau cadeau du jour en série de 7 jours : un Ticket Roulette au jour 3 et un pack garanti au jour 7.
+
+💾 SAUVEGARDE
+• Réglages > Sauvegarde : copie ton code pour retrouver ta partie sur un nouveau téléphone.
+
+🎴 CARTES
+• Les cartes Cwok TikTok, YouTube et Twitch sont retirées : si tu les avais, tu reçois 1 500 Fragments par carte.
+• La famille Discord s'appelle désormais Cwok Communauté.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 26.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.91 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.91-beta)
+
+
 ## 0.3.90-beta — 08/10/2026
 
 ✨ INTERFACE
