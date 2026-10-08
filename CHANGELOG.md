@@ -1,5 +1,19 @@
 # Patchnotes Cwollector
 
+## 0.3.90-beta — 08/10/2026
+
+✨ INTERFACE
+• La fenêtre des mises à jour est plus grande et plus lisible, et elle défile en douceur.
+• Chaque rubrique des nouveautés a désormais sa propre icône.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 25.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.90 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.90-beta)
+
+
 ## 0.3.89-beta — 08/10/2026
 
 🌿 NOUVELLES FAMILLES

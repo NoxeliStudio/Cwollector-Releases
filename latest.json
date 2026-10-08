@@ -1,46 +1,22 @@
 {
   "published": true,
-  "version_name": "0.3.89-beta",
-  "version_code": 24,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.89-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.89-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.89-beta/Cwollector-0.3.89-beta-signed.apk",
+  "version_name": "0.3.90-beta",
+  "version_code": 25,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.90-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.90-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.90-beta/Cwollector-0.3.90-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "acd0276482e6070ef09ca8b04d8d48868879ab365dd635fa336f374446f56ab7",
-  "headline": "Ta journée, 3 nouvelles familles & une ambiance sonore retravaillée ✨",
+  "sha256": "a723bd847d387001710e75f231e3429317621dea3ac558bf310589cc3957f2b2",
+  "headline": "Une fenêtre de mise à jour toute neuve ✨",
   "sections": [
     {
-      "title": "NOUVELLES FAMILLES",
+      "title": "INTERFACE",
       "items": [
-        "Botaniste se débloque au niveau 117 avec 6 nouvelles cartes.",
-        "Explorateur se débloque au niveau 130 avec 6 nouvelles cartes.",
-        "Architecte se débloque au niveau 145 avec 6 nouvelles cartes."
-      ]
-    },
-    {
-      "title": "TA JOURNÉE",
-      "items": [
-        "Un nouveau raccourci sur l’Accueil regroupe les actions quotidiennes importantes.",
-        "Coffre Club, cadeau Compagnon, missions, Roulette, Expéditions, offre du jour et nouveaux Succès sont réunis au même endroit."
-      ]
-    },
-    {
-      "title": "OUVERTURES & AUDIO",
-      "items": [
-        "Les cartes se révèlent désormais de la moins rare à la plus rare : Commune → Rare → Épique → Légendaire → Mythique → Secrète.",
-        "Nouveaux sons pour les évolutions de pack, l’ouverture, la tension et la révélation de chaque rareté.",
-        "Le tri ne change aucun taux de drop : il modifie uniquement l’ordre d’affichage des cartes déjà obtenues."
-      ]
-    },
-    {
-      "title": "INTERFACE & NETTOYAGE",
-      "items": [
-        "Ajout de la police Lilita One et d’une nouvelle icône de Maîtrise.",
-        "Suppression des anciens systèmes Cwokettes / revenu passif devenus inutiles.",
-        "Correction de la bulle du Compagnon, de warnings Boutique et nettoyage d’anciens assets / scripts de test."
+        "La fenêtre des mises à jour est plus grande et plus lisible, et elle défile en douceur.",
+        "Chaque rubrique des nouveautés a désormais sa propre icône."
       ]
     }
   ],
-  "notes": "🌿 NOUVELLES FAMILLES\n• Botaniste — niveau 117 — 6 cartes.\n• Explorateur — niveau 130 — 6 cartes.\n• Architecte — niveau 145 — 6 cartes.\n\n📅 TA JOURNÉE\n• Nouveau raccourci sur l’Accueil.\n• Regroupe coffre Club, cadeau Compagnon, missions, Roulette, Expéditions, offre du jour et nouveaux Succès.\n\n🎴 OUVERTURES & AUDIO\n• Révélation triée : Commune → Rare → Épique → Légendaire → Mythique → Secrète.\n• Aucun taux de drop n’est modifié.\n• Nouveaux sons de charge, évolution, ouverture, tension et révélation par rareté.\n\n✨ INTERFACE & NETTOYAGE\n• Nouvelle police Lilita One et nouvelle icône Maîtrise.\n• Suppression de l’ancien système Cwokettes / revenu passif.\n• Correction de la bulle du Compagnon et de warnings Boutique.\n• Nettoyage d’anciens assets et workflows de test devenus inutiles."
+  "notes": "✨ INTERFACE\n• La fenêtre des mises à jour est plus grande et plus lisible, et elle défile en douceur.\n• Chaque rubrique des nouveautés a désormais sa propre icône."
 }
