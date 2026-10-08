@@ -1,5 +1,35 @@
 # Patchnotes Cwollector
 
+## 0.3.89-beta — 08/10/2026
+
+🌿 NOUVELLES FAMILLES
+• Botaniste — niveau 117 — 6 cartes.
+• Explorateur — niveau 130 — 6 cartes.
+• Architecte — niveau 145 — 6 cartes.
+
+📅 TA JOURNÉE
+• Nouveau raccourci sur l’Accueil.
+• Regroupe coffre Club, cadeau Compagnon, missions, Roulette, Expéditions, offre du jour et nouveaux Succès.
+
+🎴 OUVERTURES & AUDIO
+• Révélation triée : Commune → Rare → Épique → Légendaire → Mythique → Secrète.
+• Aucun taux de drop n’est modifié.
+• Nouveaux sons de charge, évolution, ouverture, tension et révélation par rareté.
+
+✨ INTERFACE & NETTOYAGE
+• Nouvelle police Lilita One et nouvelle icône Maîtrise.
+• Suppression de l’ancien système Cwokettes / revenu passif.
+• Correction de la bulle du Compagnon et de warnings Boutique.
+• Nettoyage d’anciens assets et workflows de test devenus inutiles.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 24.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.89 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.89-beta)
+
+
 ## 0.3.88-beta — 06/10/2026
 
 ❤️ COMPAGNON
