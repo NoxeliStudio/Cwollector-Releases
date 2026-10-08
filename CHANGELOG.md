@@ -1,5 +1,29 @@
 # Patchnotes Cwollector
 
+## 0.3.93-beta — 08/10/2026
+
+🏠 ACCUEIL
+• Nouvel écran d'accueil : la même barre de navigation sur tous les écrans, et le pack affiche sa rareté garantie.
+• Le bouton Packs se trouve maintenant à gauche du pack.
+
+🛒 BOUTIQUE
+• La Boutique gratuite de la bêta est terminée : les pass d'essai sont désactivés. Merci à tous les testeurs !
+• En attendant le paiement, les offres s'activent avec un code cadeau.
+
+💬 COMMUNAUTÉ
+• Rejoins le Discord depuis Profil › Réglages et reçois un pack de bienvenue (une seule fois).
+
+🔧 CORRECTIONS
+• Le défilement des Réglages et des Stats est beaucoup plus fluide.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 28.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.93 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.93-beta)
+
+
 ## 0.3.92-beta — 08/10/2026
 
 🎁 CODES

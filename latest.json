@@ -1,29 +1,41 @@
 {
   "published": true,
-  "version_name": "0.3.92-beta",
-  "version_code": 27,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.92-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.92-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.92-beta/Cwollector-0.3.92-beta-signed.apk",
+  "version_name": "0.3.93-beta",
+  "version_code": 28,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.93-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.93-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.93-beta/Cwollector-0.3.93-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "94884ac67f02a6f6a0e21851629ad3c95eb6bfa29b40a4f6337a2695cfbae007",
-  "headline": "Codes cadeaux et codes événement 🎁",
+  "sha256": "8f22ac3a7ec39fc578a460985dccbfb333612491241f45da8a6622bb11f462b2",
+  "headline": "Nouvel accueil et cadeau de bienvenue Discord 🐾",
   "sections": [
     {
-      "title": "CODES",
+      "title": "ACCUEIL",
       "items": [
-        "Réglages > Codes : ton numéro de joueur s'affiche. Il te permet de recevoir des codes cadeaux rien que pour toi.",
-        "Les codes événement peuvent maintenant arriver à tout moment, sans mise à jour. Garde un œil sur le Discord !"
+        "Nouvel écran d'accueil : la même barre de navigation sur tous les écrans, et le pack affiche sa rareté garantie.",
+        "Le bouton Packs se trouve maintenant à gauche du pack."
       ]
     },
     {
-      "title": "COLLECTION",
+      "title": "BOUTIQUE",
       "items": [
-        "La famille Communauté porte enfin son nom partout dans la Collection.",
-        "Le filtre des familles suit maintenant l'ordre du jeu."
+        "La Boutique gratuite de la bêta est terminée : les pass d'essai sont désactivés. Merci à tous les testeurs !",
+        "En attendant le paiement, les offres s'activent avec un code cadeau."
+      ]
+    },
+    {
+      "title": "COMMUNAUTÉ",
+      "items": [
+        "Rejoins le Discord depuis Profil › Réglages et reçois un pack de bienvenue (une seule fois)."
+      ]
+    },
+    {
+      "title": "CORRECTIONS",
+      "items": [
+        "Le défilement des Réglages et des Stats est beaucoup plus fluide."
       ]
     }
   ],
-  "notes": "🎁 CODES\n• Réglages > Codes : ton numéro de joueur s'affiche. Il te permet de recevoir des codes cadeaux rien que pour toi.\n• Les codes événement peuvent maintenant arriver à tout moment, sans mise à jour. Garde un œil sur le Discord !\n\n🎴 COLLECTION\n• La famille Communauté porte enfin son nom partout dans la Collection.\n• Le filtre des familles suit maintenant l'ordre du jeu."
+  "notes": "🏠 ACCUEIL\n• Nouvel écran d'accueil : la même barre de navigation sur tous les écrans, et le pack affiche sa rareté garantie.\n• Le bouton Packs se trouve maintenant à gauche du pack.\n\n🛒 BOUTIQUE\n• La Boutique gratuite de la bêta est terminée : les pass d'essai sont désactivés. Merci à tous les testeurs !\n• En attendant le paiement, les offres s'activent avec un code cadeau.\n\n💬 COMMUNAUTÉ\n• Rejoins le Discord depuis Profil › Réglages et reçois un pack de bienvenue (une seule fois).\n\n🔧 CORRECTIONS\n• Le défilement des Réglages et des Stats est beaucoup plus fluide."
 }
