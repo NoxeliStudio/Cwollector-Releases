@@ -1,5 +1,34 @@
 # Patchnotes Cwollector
 
+## 0.3.96-beta — 12/10/2026
+
+✨ MAÎTRISE ET PRESTIGE
+• La Maîtrise va maintenant jusqu'au niveau 200 (au lieu de 500), avec une progression plus régulière.
+• Ton niveau est converti sur la nouvelle échelle (exemple : ancien niveau 145 → niveau 71). Tu gardes toutes tes cartes et tes familles, et rien de ce que tu as déjà reçu n'est perdu.
+• Après le niveau 200 : 10 rangs de Prestige, chacun avec sa couleur (du Bronze au Céleste) et ses récompenses : Fragments, Tickets et packs garantis.
+• Les familles se débloquent plus tôt et les chances d'évolution des packs atteignent leur maximum au niveau 160.
+• Les succès de Maîtrise suivent les nouveaux paliers (10, 35, 70, 130, 200).
+
+💎 ÉCONOMIE
+• Chasse : la jauge des cibles Épiques, Légendaires et Mythiques se remplit beaucoup plus vite (ta progression en cours est conservée).
+• Éclat de Chasse : son prix dépend des points qu'il te fait vraiment gagner.
+• Boutique Fragments : nouveaux prix (Ticket 900, Rare+ 300, Épique+ 900, Légendaire+ 2 400, Booster XP moins cher) et une offre du jour vraiment à −30 %.
+• Expéditions : de l'XP sur les expéditions de 4 h et 8 h, plus élevée dans les lieux difficiles ; récompenses des expéditions courtes ajustées ; une même carte ne peut plus occuper deux places.
+• Roulette et missions s'adaptent au Prestige X.
+
+🛠️ CONFORT
+• Auto-ouverture : la carte qui déclenche l'arrêt reste face cachée, c'est toi qui la retournes.
+• Nouvelle option « Animations des packs » dans les Réglages.
+• Les messages de récompense ne sont plus coupés.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 31.
+- Statut pré-release : true.
+- Mise à jour obligatoire : true.
+
+Téléchargement officiel : [Cwollector 0.3.96 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.96-beta)
+
+
 ## 0.3.95-beta — 08/10/2026
 
 🧭 EXPÉDITIONS

@@ -1,24 +1,43 @@
 {
   "published": true,
-  "version_name": "0.3.95-beta",
-  "version_code": 30,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.95-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.95-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.95-beta/Cwollector-0.3.95-beta-signed.apk",
-  "mandatory": false,
+  "version_name": "0.3.96-beta",
+  "version_code": 31,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.96-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.96-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.96-beta/Cwollector-0.3.96-beta-signed.apk",
+  "mandatory": true,
   "prerelease": true,
-  "sha256": "dc9eb450f744c6617ce5c623506d7915ad0499f60989ccef7260eb7dde0f2ce0",
-  "headline": "Expéditions : 5 difficultés et la Forge du volcan 🧭",
+  "sha256": "b3626d8d29f0b6101f412853d04b6cdb37e11cb1f4fc1d2570a3892606fc4a59",
+  "headline": "Maîtrise 200 et 10 rangs de Prestige ✨",
   "sections": [
     {
-      "title": "EXPÉDITIONS",
+      "title": "MAÎTRISE ET PRESTIGE",
       "items": [
-        "5 lieux et 5 niveaux de difficulté : de la Mine de cristal (★) à la nouvelle Forge du volcan (★★★★★).",
-        "Plus le lieu est difficile et l'expédition longue, plus les récompenses sont grosses : jusqu'à des packs Mythiques.",
-        "Préparation repensée : le lieu choisi s'affiche en grand et l'équipe se choisit dans une fenêtre dédiée (Cwoks conseillés, métier du lieu, ou tous).",
-        "Le bouton « Partir à l'aventure » et la chance de réussite restent toujours visibles en bas."
+        "La Maîtrise va maintenant jusqu'au niveau 200 (au lieu de 500), avec une progression plus régulière.",
+        "Ton niveau est converti sur la nouvelle échelle (exemple : ancien niveau 145 → niveau 71). Tu gardes toutes tes cartes et tes familles, et rien de ce que tu as déjà reçu n'est perdu.",
+        "Après le niveau 200 : 10 rangs de Prestige, chacun avec sa couleur (du Bronze au Céleste) et ses récompenses : Fragments, Tickets et packs garantis.",
+        "Les familles se débloquent plus tôt et les chances d'évolution des packs atteignent leur maximum au niveau 160.",
+        "Les succès de Maîtrise suivent les nouveaux paliers (10, 35, 70, 130, 200)."
+      ]
+    },
+    {
+      "title": "ÉCONOMIE",
+      "items": [
+        "Chasse : la jauge des cibles Épiques, Légendaires et Mythiques se remplit beaucoup plus vite (ta progression en cours est conservée).",
+        "Éclat de Chasse : son prix dépend des points qu'il te fait vraiment gagner.",
+        "Boutique Fragments : nouveaux prix (Ticket 900, Rare+ 300, Épique+ 900, Légendaire+ 2 400, Booster XP moins cher) et une offre du jour vraiment à −30 %.",
+        "Expéditions : de l'XP sur les expéditions de 4 h et 8 h, plus élevée dans les lieux difficiles ; récompenses des expéditions courtes ajustées ; une même carte ne peut plus occuper deux places.",
+        "Roulette et missions s'adaptent au Prestige X."
+      ]
+    },
+    {
+      "title": "CONFORT",
+      "items": [
+        "Auto-ouverture : la carte qui déclenche l'arrêt reste face cachée, c'est toi qui la retournes.",
+        "Nouvelle option « Animations des packs » dans les Réglages.",
+        "Les messages de récompense ne sont plus coupés."
       ]
     }
   ],
-  "notes": "🧭 EXPÉDITIONS\n• 5 lieux et 5 niveaux de difficulté : de la Mine de cristal (★) à la nouvelle Forge du volcan (★★★★★).\n• Plus le lieu est difficile et l'expédition longue, plus les récompenses sont grosses : jusqu'à des packs Mythiques.\n• Préparation repensée : le lieu choisi s'affiche en grand et l'équipe se choisit dans une fenêtre dédiée (Cwoks conseillés, métier du lieu, ou tous).\n• Le bouton « Partir à l'aventure » et la chance de réussite restent toujours visibles en bas."
+  "notes": "✨ MAÎTRISE ET PRESTIGE\n• La Maîtrise va maintenant jusqu'au niveau 200 (au lieu de 500), avec une progression plus régulière.\n• Ton niveau est converti sur la nouvelle échelle (exemple : ancien niveau 145 → niveau 71). Tu gardes toutes tes cartes et tes familles, et rien de ce que tu as déjà reçu n'est perdu.\n• Après le niveau 200 : 10 rangs de Prestige, chacun avec sa couleur (du Bronze au Céleste) et ses récompenses : Fragments, Tickets et packs garantis.\n• Les familles se débloquent plus tôt et les chances d'évolution des packs atteignent leur maximum au niveau 160.\n• Les succès de Maîtrise suivent les nouveaux paliers (10, 35, 70, 130, 200).\n\n💎 ÉCONOMIE\n• Chasse : la jauge des cibles Épiques, Légendaires et Mythiques se remplit beaucoup plus vite (ta progression en cours est conservée).\n• Éclat de Chasse : son prix dépend des points qu'il te fait vraiment gagner.\n• Boutique Fragments : nouveaux prix (Ticket 900, Rare+ 300, Épique+ 900, Légendaire+ 2 400, Booster XP moins cher) et une offre du jour vraiment à −30 %.\n• Expéditions : de l'XP sur les expéditions de 4 h et 8 h, plus élevée dans les lieux difficiles ; récompenses des expéditions courtes ajustées ; une même carte ne peut plus occuper deux places.\n• Roulette et missions s'adaptent au Prestige X.\n\n🛠️ CONFORT\n• Auto-ouverture : la carte qui déclenche l'arrêt reste face cachée, c'est toi qui la retournes.\n• Nouvelle option « Animations des packs » dans les Réglages.\n• Les messages de récompense ne sont plus coupés."
 }
