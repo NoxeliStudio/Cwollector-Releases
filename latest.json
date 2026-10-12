@@ -1,30 +1,24 @@
 {
   "published": true,
-  "version_name": "0.3.98-beta",
-  "version_code": 33,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.98-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.98-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.98-beta/Cwollector-0.3.98-beta-signed.apk",
+  "version_name": "0.3.99-beta",
+  "version_code": 34,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.99-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.99-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.99-beta/Cwollector-0.3.99-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "e9cfa9d577fe0915f74eaa826171ae4c82c7f4526c128dff74ee6f98cc9e42e3",
-  "headline": "Nouveau logo et notifications 🔔",
+  "sha256": "2e1d6821b0c5cb1558165c68e26925ff31a5dcaa2bd1c57b5f422b30c5d483b5",
+  "headline": "Notifications plus fiables 🔔",
   "sections": [
     {
-      "title": "NOUVEAU",
+      "title": "NOTIFICATIONS",
       "items": [
-        "Nouveau logo tout mignon, avec un petit chat qui fait un clin d'œil.",
-        "Notifications : le jeu peut te prévenir quand une expédition est terminée, et te rappeler le cadeau du jour de ton compagnon en fin de journée.",
-        "Le jeu te demande ton accord à ta première expédition. Tu peux les couper à tout moment dans Profil > Réglages > Confort."
-      ]
-    },
-    {
-      "title": "CONFORT",
-      "items": [
-        "Grand ménage dans le code : le jeu est plus propre et plus léger.",
-        "Aucune notification n'arrive quand tu es déjà en train de jouer."
+        "Les rappels d'expédition sont programmés dès le lancement, plus seulement quand tu quittes le jeu.",
+        "Nouveau bouton TESTER (Profil > Réglages > Confort) : une notification d'essai arrive 1 minute plus tard.",
+        "Nouveau bouton RÉGLAGES DU TÉLÉPHONE : sur certains téléphones (Xiaomi, RedMagic, Huawei…), mets la batterie de Cwollector sur « Sans restriction » pour recevoir les rappels quand le jeu est fermé.",
+        "Si une expédition était déjà en cours, le jeu te propose aussi les notifications."
       ]
     }
   ],
-  "notes": "🔔 NOUVEAU\n• Nouveau logo tout mignon, avec un petit chat qui fait un clin d'œil.\n• Notifications : le jeu peut te prévenir quand une expédition est terminée, et te rappeler le cadeau du jour de ton compagnon en fin de journée.\n• Le jeu te demande ton accord à ta première expédition. Tu peux les couper à tout moment dans Profil > Réglages > Confort.\n\n🛠️ CONFORT\n• Grand ménage dans le code : le jeu est plus propre et plus léger.\n• Aucune notification n'arrive quand tu es déjà en train de jouer."
+  "notes": "🔔 NOTIFICATIONS\n• Les rappels d'expédition sont programmés dès le lancement, plus seulement quand tu quittes le jeu.\n• Nouveau bouton TESTER (Profil > Réglages > Confort) : une notification d'essai arrive 1 minute plus tard.\n• Nouveau bouton RÉGLAGES DU TÉLÉPHONE : sur certains téléphones (Xiaomi, RedMagic, Huawei…), mets la batterie de Cwollector sur « Sans restriction » pour recevoir les rappels quand le jeu est fermé.\n• Si une expédition était déjà en cours, le jeu te propose aussi les notifications."
 }

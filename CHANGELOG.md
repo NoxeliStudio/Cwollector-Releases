@@ -1,5 +1,21 @@
 # Patchnotes Cwollector
 
+## 0.3.99-beta — 12/10/2026
+
+🔔 NOTIFICATIONS
+• Les rappels d'expédition sont programmés dès le lancement, plus seulement quand tu quittes le jeu.
+• Nouveau bouton TESTER (Profil > Réglages > Confort) : une notification d'essai arrive 1 minute plus tard.
+• Nouveau bouton RÉGLAGES DU TÉLÉPHONE : sur certains téléphones (Xiaomi, RedMagic, Huawei…), mets la batterie de Cwollector sur « Sans restriction » pour recevoir les rappels quand le jeu est fermé.
+• Si une expédition était déjà en cours, le jeu te propose aussi les notifications.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 34.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.99 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.99-beta)
+
+
 ## 0.3.98-beta — 12/10/2026
 
 🔔 NOUVEAU
