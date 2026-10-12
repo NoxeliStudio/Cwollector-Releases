@@ -1,43 +1,36 @@
 {
   "published": true,
-  "version_name": "0.3.96-beta",
-  "version_code": 31,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.96-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.96-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.96-beta/Cwollector-0.3.96-beta-signed.apk",
-  "mandatory": true,
+  "version_name": "0.3.97-beta",
+  "version_code": 32,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.97-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.97-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.97-beta/Cwollector-0.3.97-beta-signed.apk",
+  "mandatory": false,
   "prerelease": true,
-  "sha256": "b3626d8d29f0b6101f412853d04b6cdb37e11cb1f4fc1d2570a3892606fc4a59",
-  "headline": "Maîtrise 200 et 10 rangs de Prestige ✨",
+  "sha256": "8ac35ef9c7a8f343e888a432951b4a760802f96db06ed0399a63ccf08e3b41f3",
+  "headline": "Nouvelle musique « village des chats » 🎶",
   "sections": [
     {
-      "title": "MAÎTRISE ET PRESTIGE",
+      "title": "AMBIANCE",
       "items": [
-        "La Maîtrise va maintenant jusqu'au niveau 200 (au lieu de 500), avec une progression plus régulière.",
-        "Ton niveau est converti sur la nouvelle échelle (exemple : ancien niveau 145 → niveau 71). Tu gardes toutes tes cartes et tes familles, et rien de ce que tu as déjà reçu n'est perdu.",
-        "Après le niveau 200 : 10 rangs de Prestige, chacun avec sa couleur (du Bronze au Céleste) et ses récompenses : Fragments, Tickets et packs garantis.",
-        "Les familles se débloquent plus tôt et les chances d'évolution des packs atteignent leur maximum au niveau 160.",
-        "Les succès de Maîtrise suivent les nouveaux paliers (10, 35, 70, 130, 200)."
+        "Nouvelle musique : une valse douce « village des chats », avec harpe, flûte et cordes… et quelques petits chatons discrets."
       ]
     },
     {
-      "title": "ÉCONOMIE",
+      "title": "RÉVÉLATIONS",
       "items": [
-        "Chasse : la jauge des cibles Épiques, Légendaires et Mythiques se remplit beaucoup plus vite (ta progression en cours est conservée).",
-        "Éclat de Chasse : son prix dépend des points qu'il te fait vraiment gagner.",
-        "Boutique Fragments : nouveaux prix (Ticket 900, Rare+ 300, Épique+ 900, Légendaire+ 2 400, Booster XP moins cher) et une offre du jour vraiment à −30 %.",
-        "Expéditions : de l'XP sur les expéditions de 4 h et 8 h, plus élevée dans les lieux difficiles ; récompenses des expéditions courtes ajustées ; une même carte ne peut plus occuper deux places.",
-        "Roulette et missions s'adaptent au Prestige X."
+        "Les cartes Mythiques et Secrètes marquent encore plus le coup : la musique s'efface un instant et le téléphone vibre comme un petit cœur.",
+        "« Nouvelle découverte » ne passe plus sous le titre de rareté."
       ]
     },
     {
       "title": "CONFORT",
       "items": [
-        "Auto-ouverture : la carte qui déclenche l'arrêt reste face cachée, c'est toi qui la retournes.",
-        "Nouvelle option « Animations des packs » dans les Réglages.",
-        "Les messages de récompense ne sont plus coupés."
+        "Le jeu est environ deux fois plus léger à télécharger, sans perte de qualité des cartes.",
+        "L'écran Packs n'annonce plus des familles qui ne sont pas encore sorties.",
+        "La Collection compte les familles réellement disponibles (17)."
       ]
     }
   ],
-  "notes": "✨ MAÎTRISE ET PRESTIGE\n• La Maîtrise va maintenant jusqu'au niveau 200 (au lieu de 500), avec une progression plus régulière.\n• Ton niveau est converti sur la nouvelle échelle (exemple : ancien niveau 145 → niveau 71). Tu gardes toutes tes cartes et tes familles, et rien de ce que tu as déjà reçu n'est perdu.\n• Après le niveau 200 : 10 rangs de Prestige, chacun avec sa couleur (du Bronze au Céleste) et ses récompenses : Fragments, Tickets et packs garantis.\n• Les familles se débloquent plus tôt et les chances d'évolution des packs atteignent leur maximum au niveau 160.\n• Les succès de Maîtrise suivent les nouveaux paliers (10, 35, 70, 130, 200).\n\n💎 ÉCONOMIE\n• Chasse : la jauge des cibles Épiques, Légendaires et Mythiques se remplit beaucoup plus vite (ta progression en cours est conservée).\n• Éclat de Chasse : son prix dépend des points qu'il te fait vraiment gagner.\n• Boutique Fragments : nouveaux prix (Ticket 900, Rare+ 300, Épique+ 900, Légendaire+ 2 400, Booster XP moins cher) et une offre du jour vraiment à −30 %.\n• Expéditions : de l'XP sur les expéditions de 4 h et 8 h, plus élevée dans les lieux difficiles ; récompenses des expéditions courtes ajustées ; une même carte ne peut plus occuper deux places.\n• Roulette et missions s'adaptent au Prestige X.\n\n🛠️ CONFORT\n• Auto-ouverture : la carte qui déclenche l'arrêt reste face cachée, c'est toi qui la retournes.\n• Nouvelle option « Animations des packs » dans les Réglages.\n• Les messages de récompense ne sont plus coupés."
+  "notes": "🎶 AMBIANCE\n• Nouvelle musique : une valse douce « village des chats », avec harpe, flûte et cordes… et quelques petits chatons discrets.\n\n✨ RÉVÉLATIONS\n• Les cartes Mythiques et Secrètes marquent encore plus le coup : la musique s'efface un instant et le téléphone vibre comme un petit cœur.\n• « Nouvelle découverte » ne passe plus sous le titre de rareté.\n\n🛠️ CONFORT\n• Le jeu est environ deux fois plus léger à télécharger, sans perte de qualité des cartes.\n• L'écran Packs n'annonce plus des familles qui ne sont pas encore sorties.\n• La Collection compte les familles réellement disponibles (17)."
 }

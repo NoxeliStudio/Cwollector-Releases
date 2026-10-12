@@ -1,5 +1,27 @@
 # Patchnotes Cwollector
 
+## 0.3.97-beta — 12/10/2026
+
+🎶 AMBIANCE
+• Nouvelle musique : une valse douce « village des chats », avec harpe, flûte et cordes… et quelques petits chatons discrets.
+
+✨ RÉVÉLATIONS
+• Les cartes Mythiques et Secrètes marquent encore plus le coup : la musique s'efface un instant et le téléphone vibre comme un petit cœur.
+• « Nouvelle découverte » ne passe plus sous le titre de rareté.
+
+🛠️ CONFORT
+• Le jeu est environ deux fois plus léger à télécharger, sans perte de qualité des cartes.
+• L'écran Packs n'annonce plus des familles qui ne sont pas encore sorties.
+• La Collection compte les familles réellement disponibles (17).
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 32.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.97 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.97-beta)
+
+
 ## 0.3.96-beta — 12/10/2026
 
 ✨ MAÎTRISE ET PRESTIGE
