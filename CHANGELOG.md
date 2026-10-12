@@ -1,5 +1,24 @@
 # Patchnotes Cwollector
 
+## 0.3.98-beta — 12/10/2026
+
+🔔 NOUVEAU
+• Nouveau logo tout mignon, avec un petit chat qui fait un clin d'œil.
+• Notifications : le jeu peut te prévenir quand une expédition est terminée, et te rappeler le cadeau du jour de ton compagnon en fin de journée.
+• Le jeu te demande ton accord à ta première expédition. Tu peux les couper à tout moment dans Profil > Réglages > Confort.
+
+🛠️ CONFORT
+• Grand ménage dans le code : le jeu est plus propre et plus léger.
+• Aucune notification n'arrive quand tu es déjà en train de jouer.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 33.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.3.98 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.98-beta)
+
+
 ## 0.3.97-beta — 12/10/2026
 
 🎶 AMBIANCE

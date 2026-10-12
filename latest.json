@@ -1,36 +1,30 @@
 {
   "published": true,
-  "version_name": "0.3.97-beta",
-  "version_code": 32,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.97-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.97-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.97-beta/Cwollector-0.3.97-beta-signed.apk",
+  "version_name": "0.3.98-beta",
+  "version_code": 33,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.98-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.98-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.98-beta/Cwollector-0.3.98-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "8ac35ef9c7a8f343e888a432951b4a760802f96db06ed0399a63ccf08e3b41f3",
-  "headline": "Nouvelle musique « village des chats » 🎶",
+  "sha256": "e9cfa9d577fe0915f74eaa826171ae4c82c7f4526c128dff74ee6f98cc9e42e3",
+  "headline": "Nouveau logo et notifications 🔔",
   "sections": [
     {
-      "title": "AMBIANCE",
+      "title": "NOUVEAU",
       "items": [
-        "Nouvelle musique : une valse douce « village des chats », avec harpe, flûte et cordes… et quelques petits chatons discrets."
-      ]
-    },
-    {
-      "title": "RÉVÉLATIONS",
-      "items": [
-        "Les cartes Mythiques et Secrètes marquent encore plus le coup : la musique s'efface un instant et le téléphone vibre comme un petit cœur.",
-        "« Nouvelle découverte » ne passe plus sous le titre de rareté."
+        "Nouveau logo tout mignon, avec un petit chat qui fait un clin d'œil.",
+        "Notifications : le jeu peut te prévenir quand une expédition est terminée, et te rappeler le cadeau du jour de ton compagnon en fin de journée.",
+        "Le jeu te demande ton accord à ta première expédition. Tu peux les couper à tout moment dans Profil > Réglages > Confort."
       ]
     },
     {
       "title": "CONFORT",
       "items": [
-        "Le jeu est environ deux fois plus léger à télécharger, sans perte de qualité des cartes.",
-        "L'écran Packs n'annonce plus des familles qui ne sont pas encore sorties.",
-        "La Collection compte les familles réellement disponibles (17)."
+        "Grand ménage dans le code : le jeu est plus propre et plus léger.",
+        "Aucune notification n'arrive quand tu es déjà en train de jouer."
       ]
     }
   ],
-  "notes": "🎶 AMBIANCE\n• Nouvelle musique : une valse douce « village des chats », avec harpe, flûte et cordes… et quelques petits chatons discrets.\n\n✨ RÉVÉLATIONS\n• Les cartes Mythiques et Secrètes marquent encore plus le coup : la musique s'efface un instant et le téléphone vibre comme un petit cœur.\n• « Nouvelle découverte » ne passe plus sous le titre de rareté.\n\n🛠️ CONFORT\n• Le jeu est environ deux fois plus léger à télécharger, sans perte de qualité des cartes.\n• L'écran Packs n'annonce plus des familles qui ne sont pas encore sorties.\n• La Collection compte les familles réellement disponibles (17)."
+  "notes": "🔔 NOUVEAU\n• Nouveau logo tout mignon, avec un petit chat qui fait un clin d'œil.\n• Notifications : le jeu peut te prévenir quand une expédition est terminée, et te rappeler le cadeau du jour de ton compagnon en fin de journée.\n• Le jeu te demande ton accord à ta première expédition. Tu peux les couper à tout moment dans Profil > Réglages > Confort.\n\n🛠️ CONFORT\n• Grand ménage dans le code : le jeu est plus propre et plus léger.\n• Aucune notification n'arrive quand tu es déjà en train de jouer."
 }
