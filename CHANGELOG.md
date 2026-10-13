@@ -1,5 +1,19 @@
 # Patchnotes Cwollector
 
+## 0.4.0-beta — 13/10/2026
+
+📊 NOUVEAU
+• Le jeu te demande une seule fois si tu acceptes d'envoyer des statistiques anonymes (temps de jeu, packs ouverts…) pour nous aider à l'améliorer. Aucune donnée personnelle. Tu peux changer d'avis dans Profil > Réglages > Confort.
+• Les fenêtres du démarrage s'affichent maintenant l'une après l'autre, plus jamais empilées.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 35.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.0 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.0-beta)
+
+
 ## 0.3.99-beta — 12/10/2026
 
 🔔 NOTIFICATIONS

@@ -1,24 +1,22 @@
 {
   "published": true,
-  "version_name": "0.3.99-beta",
-  "version_code": 34,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.99-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.3.99-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.3.99-beta/Cwollector-0.3.99-beta-signed.apk",
+  "version_name": "0.4.0-beta",
+  "version_code": 35,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.0-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.0-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.0-beta/Cwollector-0.4.0-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "2e1d6821b0c5cb1558165c68e26925ff31a5dcaa2bd1c57b5f422b30c5d483b5",
-  "headline": "Notifications plus fiables 🔔",
+  "sha256": "4fb20dfd02c06220916f55b7999a9ecd555b25c67890c2291a52895ce69be39e",
+  "headline": "Aide-nous à améliorer Cwollector 📊",
   "sections": [
     {
-      "title": "NOTIFICATIONS",
+      "title": "NOUVEAU",
       "items": [
-        "Les rappels d'expédition sont programmés dès le lancement, plus seulement quand tu quittes le jeu.",
-        "Nouveau bouton TESTER (Profil > Réglages > Confort) : une notification d'essai arrive 1 minute plus tard.",
-        "Nouveau bouton RÉGLAGES DU TÉLÉPHONE : sur certains téléphones (Xiaomi, RedMagic, Huawei…), mets la batterie de Cwollector sur « Sans restriction » pour recevoir les rappels quand le jeu est fermé.",
-        "Si une expédition était déjà en cours, le jeu te propose aussi les notifications."
+        "Le jeu te demande une seule fois si tu acceptes d'envoyer des statistiques anonymes (temps de jeu, packs ouverts…) pour nous aider à l'améliorer. Aucune donnée personnelle. Tu peux changer d'avis dans Profil > Réglages > Confort.",
+        "Les fenêtres du démarrage s'affichent maintenant l'une après l'autre, plus jamais empilées."
       ]
     }
   ],
-  "notes": "🔔 NOTIFICATIONS\n• Les rappels d'expédition sont programmés dès le lancement, plus seulement quand tu quittes le jeu.\n• Nouveau bouton TESTER (Profil > Réglages > Confort) : une notification d'essai arrive 1 minute plus tard.\n• Nouveau bouton RÉGLAGES DU TÉLÉPHONE : sur certains téléphones (Xiaomi, RedMagic, Huawei…), mets la batterie de Cwollector sur « Sans restriction » pour recevoir les rappels quand le jeu est fermé.\n• Si une expédition était déjà en cours, le jeu te propose aussi les notifications."
+  "notes": "📊 NOUVEAU\n• Le jeu te demande une seule fois si tu acceptes d'envoyer des statistiques anonymes (temps de jeu, packs ouverts…) pour nous aider à l'améliorer. Aucune donnée personnelle. Tu peux changer d'avis dans Profil > Réglages > Confort.\n• Les fenêtres du démarrage s'affichent maintenant l'une après l'autre, plus jamais empilées."
 }
