@@ -1,22 +1,22 @@
 {
   "published": true,
-  "version_name": "0.4.0-beta",
-  "version_code": 35,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.0-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.0-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.0-beta/Cwollector-0.4.0-beta-signed.apk",
+  "version_name": "0.4.1-beta",
+  "version_code": 36,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.1-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.1-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.1-beta/Cwollector-0.4.1-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "4fb20dfd02c06220916f55b7999a9ecd555b25c67890c2291a52895ce69be39e",
-  "headline": "Aide-nous à améliorer Cwollector 📊",
+  "sha256": "51b7daaeab6974a683ad96555a526598613e9ee9355908733ddb7cd343fed283",
+  "headline": "Correctif statistiques 📊",
   "sections": [
     {
-      "title": "NOUVEAU",
+      "title": "CORRECTIF",
       "items": [
-        "Le jeu te demande une seule fois si tu acceptes d'envoyer des statistiques anonymes (temps de jeu, packs ouverts…) pour nous aider à l'améliorer. Aucune donnée personnelle. Tu peux changer d'avis dans Profil > Réglages > Confort.",
-        "Les fenêtres du démarrage s'affichent maintenant l'une après l'autre, plus jamais empilées."
+        "Correctif : les statistiques anonymes partent maintenant bien depuis tous les téléphones.",
+        "Dans Profil > Réglages > Confort, sous « Statistiques anonymes », tu vois l'heure du dernier envoi réussi."
       ]
     }
   ],
-  "notes": "📊 NOUVEAU\n• Le jeu te demande une seule fois si tu acceptes d'envoyer des statistiques anonymes (temps de jeu, packs ouverts…) pour nous aider à l'améliorer. Aucune donnée personnelle. Tu peux changer d'avis dans Profil > Réglages > Confort.\n• Les fenêtres du démarrage s'affichent maintenant l'une après l'autre, plus jamais empilées."
+  "notes": "🛠️ CORRECTIF\n• Correctif : les statistiques anonymes partent maintenant bien depuis tous les téléphones.\n• Dans Profil > Réglages > Confort, sous « Statistiques anonymes », tu vois l'heure du dernier envoi réussi."
 }

@@ -1,5 +1,19 @@
 # Patchnotes Cwollector
 
+## 0.4.1-beta — 13/10/2026
+
+🛠️ CORRECTIF
+• Correctif : les statistiques anonymes partent maintenant bien depuis tous les téléphones.
+• Dans Profil > Réglages > Confort, sous « Statistiques anonymes », tu vois l'heure du dernier envoi réussi.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 36.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.1 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.1-beta)
+
+
 ## 0.4.0-beta — 13/10/2026
 
 📊 NOUVEAU
