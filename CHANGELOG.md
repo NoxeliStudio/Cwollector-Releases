@@ -1,5 +1,28 @@
 # Patchnotes Cwollector
 
+## 0.4.2-beta — 19/10/2026
+
+✨ VARIANTES
+• Chaque carte d'un pack peut maintenant sortir Dorée (1 chance sur 50), Prismatique (1 sur 400) ou Astrale (1 sur 2 500) !
+• Nouveaux effets : rayons dorés et pluie d'or, bandes holographiques arc-en-ciel, ciel étoilé et étoiles filantes.
+• Ta collection garde toujours ta meilleure version. Une variante déjà obtenue rapporte plus de Fragments (×2, ×5 ou ×15).
+• L'atelier de la Collection permet toujours de faire évoluer une carte précise avec des Fragments, mais c'est plus cher : la chance est la voie royale.
+
+🔖 COLLECTOR
+• 1 carte sur 500 sort avec un tampon COLLECTOR et un numéro unique (n° 0042…), en plus de sa version.
+• Compteur Collectors et filtre dans la Collection, nouveau succès « Coup de tampon ».
+
+🎯 MISSIONS
+• Nouvelles missions « Ça brille ! » (trouver des variantes) et « Coup de tampon » (trouver un Collector).
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 37.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.2 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.2-beta)
+
+
 ## 0.4.1-beta — 13/10/2026
 
 🛠️ CORRECTIF
