@@ -1,5 +1,21 @@
 # Patchnotes Cwollector
 
+## 0.4.3-beta — 22/10/2026
+
+🎉 WEEK-ENDS
+• Chaque samedi et dimanche : XP des cartes ×2 !
+• En plus, un événement différent chaque week-end : Week-end Doré (variantes ×2), Famille à l'honneur (une famille sort 2× plus souvent), Week-end des Collectors (Collector ×3 et +50 % de Fragments sur les doublons), Expéditions en folie (+50 % de Fragments et d'XP).
+• Un bandeau sur l'accueil annonce l'événement du prochain week-end, puis affiche le temps restant.
+• Une notification te prévient le samedi matin.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 38.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.3 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.3-beta)
+
+
 ## 0.4.2-beta — 19/10/2026
 
 ✨ VARIANTES

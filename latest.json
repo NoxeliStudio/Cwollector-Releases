@@ -1,37 +1,24 @@
 {
   "published": true,
-  "version_name": "0.4.2-beta",
-  "version_code": 37,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.2-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.2-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.2-beta/Cwollector-0.4.2-beta-signed.apk",
+  "version_name": "0.4.3-beta",
+  "version_code": 38,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.3-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.3-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.3-beta/Cwollector-0.4.3-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "a89a89acc293238d22396fa34d76231e8e99ca1239c44614930385a57f7f75b2",
-  "headline": "Cartes Dorées, Prismatiques, Astrales et Collector ✨",
+  "sha256": "3a70e6eed54db0c920fc68a98196f101aec9050c2e6e167b0c08934ab23d5287",
+  "headline": "Les week-ends deviennent des événements 🎉",
   "sections": [
     {
-      "title": "VARIANTES",
+      "title": "WEEK-ENDS",
       "items": [
-        "Chaque carte d'un pack peut maintenant sortir Dorée (1 chance sur 50), Prismatique (1 sur 400) ou Astrale (1 sur 2 500) !",
-        "Nouveaux effets : rayons dorés et pluie d'or, bandes holographiques arc-en-ciel, ciel étoilé et étoiles filantes.",
-        "Ta collection garde toujours ta meilleure version. Une variante déjà obtenue rapporte plus de Fragments (×2, ×5 ou ×15).",
-        "L'atelier de la Collection permet toujours de faire évoluer une carte précise avec des Fragments, mais c'est plus cher : la chance est la voie royale."
-      ]
-    },
-    {
-      "title": "COLLECTOR",
-      "items": [
-        "1 carte sur 500 sort avec un tampon COLLECTOR et un numéro unique (n° 0042…), en plus de sa version.",
-        "Compteur Collectors et filtre dans la Collection, nouveau succès « Coup de tampon »."
-      ]
-    },
-    {
-      "title": "MISSIONS",
-      "items": [
-        "Nouvelles missions « Ça brille ! » (trouver des variantes) et « Coup de tampon » (trouver un Collector)."
+        "Chaque samedi et dimanche : XP des cartes ×2 !",
+        "En plus, un événement différent chaque week-end : Week-end Doré (variantes ×2), Famille à l'honneur (une famille sort 2× plus souvent), Week-end des Collectors (Collector ×3 et +50 % de Fragments sur les doublons), Expéditions en folie (+50 % de Fragments et d'XP).",
+        "Un bandeau sur l'accueil annonce l'événement du prochain week-end, puis affiche le temps restant.",
+        "Une notification te prévient le samedi matin."
       ]
     }
   ],
-  "notes": "✨ VARIANTES\n• Chaque carte d'un pack peut maintenant sortir Dorée (1 chance sur 50), Prismatique (1 sur 400) ou Astrale (1 sur 2 500) !\n• Nouveaux effets : rayons dorés et pluie d'or, bandes holographiques arc-en-ciel, ciel étoilé et étoiles filantes.\n• Ta collection garde toujours ta meilleure version. Une variante déjà obtenue rapporte plus de Fragments (×2, ×5 ou ×15).\n• L'atelier de la Collection permet toujours de faire évoluer une carte précise avec des Fragments, mais c'est plus cher : la chance est la voie royale.\n\n🔖 COLLECTOR\n• 1 carte sur 500 sort avec un tampon COLLECTOR et un numéro unique (n° 0042…), en plus de sa version.\n• Compteur Collectors et filtre dans la Collection, nouveau succès « Coup de tampon ».\n\n🎯 MISSIONS\n• Nouvelles missions « Ça brille ! » (trouver des variantes) et « Coup de tampon » (trouver un Collector)."
+  "notes": "🎉 WEEK-ENDS\n• Chaque samedi et dimanche : XP des cartes ×2 !\n• En plus, un événement différent chaque week-end : Week-end Doré (variantes ×2), Famille à l'honneur (une famille sort 2× plus souvent), Week-end des Collectors (Collector ×3 et +50 % de Fragments sur les doublons), Expéditions en folie (+50 % de Fragments et d'XP).\n• Un bandeau sur l'accueil annonce l'événement du prochain week-end, puis affiche le temps restant.\n• Une notification te prévient le samedi matin."
 }
