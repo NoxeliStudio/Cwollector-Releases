@@ -1,45 +1,23 @@
 {
   "published": true,
-  "version_name": "0.4.5-beta",
-  "version_code": 40,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.5-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.5-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.5-beta/Cwollector-0.4.5-beta-signed.apk",
+  "version_name": "0.4.6-beta",
+  "version_code": 41,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.6-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.6-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.6-beta/Cwollector-0.4.6-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "87bfffba2c537b0b6a0c192c94261476a0df085ad05a38fb5060bc0bb29f82f1",
-  "headline": "200 étages, des albums et le Pass VIP 👑",
+  "sha256": "93707d3f2ccc70ba62c09f26d676be14ec4bf006de748d10e7424dd5943e87fa",
+  "headline": "Petits correctifs 🔧",
   "sections": [
     {
-      "title": "TOUR DES CWOKS",
+      "title": "CORRECTIFS",
       "items": [
-        "La Tour compte maintenant 200 étages, avec une carte exclusive aux étages 50, 100, 150 et 200 (elles arrivent bientôt).",
-        "Tes doublons renforcent tes cartes dans la Tour : chaque pack compte.",
-        "Boss du week-end : un week-end sur cinq, un boss à ta mesure et un gros butin.",
-        "Les Soutiens soignent plus fort."
-      ]
-    },
-    {
-      "title": "ALBUMS",
-      "items": [
-        "15 albums à thème dans la Collection, avec des Fragments, des Tickets et des packs à réclamer."
-      ]
-    },
-    {
-      "title": "PROFIL",
-      "items": [
-        "Ta vitrine affiche les effets de tes cartes.",
-        "Nouveau bouton : crée une image de ta vitrine à partager."
-      ]
-    },
-    {
-      "title": "BOUTIQUE",
-      "items": [
-        "Nouveau Pass VIP : +25 % de Fragments et d'XP, vitesse ×2 et Passer dans la Tour, pseudo et badge VIP.",
-        "Les packs de Fragments contiennent environ quatre fois plus de Fragments.",
-        "Offre de bienvenue plus généreuse, et le Lot Collectionneur inclut le Pass VIP."
+        "Le bouton Retour du téléphone ne ferme plus le jeu d'un coup : sur l'accueil, il demande d'abord si tu veux quitter.",
+        "Retour ferme aussi les fenêtres ouvertes (albums, choix d'équipe de la Tour, annonces).",
+        "L'image de ta vitrine s'enregistre maintenant dans Téléchargements, dossier « Cwollector »."
       ]
     }
   ],
-  "notes": "🏰 TOUR DES CWOKS\n• La Tour compte maintenant 200 étages, avec une carte exclusive aux étages 50, 100, 150 et 200 (elles arrivent bientôt).\n• Tes doublons renforcent tes cartes dans la Tour : chaque pack compte.\n• Boss du week-end : un week-end sur cinq, un boss à ta mesure et un gros butin.\n• Les Soutiens soignent plus fort.\n\n📚 ALBUMS\n• 15 albums à thème dans la Collection, avec des Fragments, des Tickets et des packs à réclamer.\n\n🖼️ PROFIL\n• Ta vitrine affiche les effets de tes cartes.\n• Nouveau bouton : crée une image de ta vitrine à partager.\n\n👑 BOUTIQUE\n• Nouveau Pass VIP : +25 % de Fragments et d'XP, vitesse ×2 et Passer dans la Tour, pseudo et badge VIP.\n• Les packs de Fragments contiennent environ quatre fois plus de Fragments.\n• Offre de bienvenue plus généreuse, et le Lot Collectionneur inclut le Pass VIP."
+  "notes": "🔧 CORRECTIFS\n• Le bouton Retour du téléphone ne ferme plus le jeu d'un coup : sur l'accueil, il demande d'abord si tu veux quitter.\n• Retour ferme aussi les fenêtres ouvertes (albums, choix d'équipe de la Tour, annonces).\n• L'image de ta vitrine s'enregistre maintenant dans Téléchargements, dossier « Cwollector »."
 }

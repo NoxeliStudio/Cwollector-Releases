@@ -1,5 +1,20 @@
 # Patchnotes Cwollector
 
+## 0.4.6-beta — 16/11/2026
+
+🔧 CORRECTIFS
+• Le bouton Retour du téléphone ne ferme plus le jeu d'un coup : sur l'accueil, il demande d'abord si tu veux quitter.
+• Retour ferme aussi les fenêtres ouvertes (albums, choix d'équipe de la Tour, annonces).
+• L'image de ta vitrine s'enregistre maintenant dans Téléchargements, dossier « Cwollector ».
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 41.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.6 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.6-beta)
+
+
 ## 0.4.5-beta — 16/11/2026
 
 🏰 TOUR DES CWOKS
