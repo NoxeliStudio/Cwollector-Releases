@@ -1,5 +1,19 @@
 # Patchnotes Cwollector
 
+## 0.4.8-beta — 16/11/2026
+
+✨ NOUVEAU
+• Pass VIP : une pastille « ★ VIP » brille maintenant devant ton pseudo, sur ton profil et sur l'image de ta vitrine.
+• Tour des Cwoks : quand tu gagnes le Cwok Mage de la Tour ou qu'il évolue, la carte se révèle en grand avec une animation.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 43.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.8 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.8-beta)
+
+
 ## 0.4.7-beta — 16/11/2026
 
 🧙 NOUVEAU
