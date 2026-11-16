@@ -1,23 +1,24 @@
 {
   "published": true,
-  "version_name": "0.4.6-beta",
-  "version_code": 41,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.6-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.6-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.6-beta/Cwollector-0.4.6-beta-signed.apk",
+  "version_name": "0.4.7-beta",
+  "version_code": 42,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.7-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.7-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.7-beta/Cwollector-0.4.7-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "93707d3f2ccc70ba62c09f26d676be14ec4bf006de748d10e7424dd5943e87fa",
-  "headline": "Petits correctifs 🔧",
+  "sha256": "cd72aa13dc8907bf8a24c9a69a1ea65760e7967d78df99e3c835e03ad25c9f41",
+  "headline": "La carte de la Tour arrive ! 🧙",
   "sections": [
     {
-      "title": "CORRECTIFS",
+      "title": "NOUVEAU",
       "items": [
-        "Le bouton Retour du téléphone ne ferme plus le jeu d'un coup : sur l'accueil, il demande d'abord si tu veux quitter.",
-        "Retour ferme aussi les fenêtres ouvertes (albums, choix d'équipe de la Tour, annonces).",
-        "L'image de ta vitrine s'enregistre maintenant dans Téléchargements, dossier « Cwollector »."
+        "Cwok Mage de la Tour : une carte exclusive à gagner à l'étage 50 de la Tour des Cwoks.",
+        "C'est une carte évolutive : elle devient Légendaire à l'étage 100, Mythique à l'étage 150 et Secrète à l'étage 200, avec une nouvelle illustration à chaque fois.",
+        "Plus elle évolue, plus elle est forte dans ton équipe de la Tour.",
+        "Si tu as déjà dépassé l'étage 50, tu la reçois en lançant le jeu."
       ]
     }
   ],
-  "notes": "🔧 CORRECTIFS\n• Le bouton Retour du téléphone ne ferme plus le jeu d'un coup : sur l'accueil, il demande d'abord si tu veux quitter.\n• Retour ferme aussi les fenêtres ouvertes (albums, choix d'équipe de la Tour, annonces).\n• L'image de ta vitrine s'enregistre maintenant dans Téléchargements, dossier « Cwollector »."
+  "notes": "🧙 NOUVEAU\n• Cwok Mage de la Tour : une carte exclusive à gagner à l'étage 50 de la Tour des Cwoks.\n• C'est une carte évolutive : elle devient Légendaire à l'étage 100, Mythique à l'étage 150 et Secrète à l'étage 200, avec une nouvelle illustration à chaque fois.\n• Plus elle évolue, plus elle est forte dans ton équipe de la Tour.\n• Si tu as déjà dépassé l'étage 50, tu la reçois en lançant le jeu."
 }

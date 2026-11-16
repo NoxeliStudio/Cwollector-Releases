@@ -1,5 +1,21 @@
 # Patchnotes Cwollector
 
+## 0.4.7-beta — 16/11/2026
+
+🧙 NOUVEAU
+• Cwok Mage de la Tour : une carte exclusive à gagner à l'étage 50 de la Tour des Cwoks.
+• C'est une carte évolutive : elle devient Légendaire à l'étage 100, Mythique à l'étage 150 et Secrète à l'étage 200, avec une nouvelle illustration à chaque fois.
+• Plus elle évolue, plus elle est forte dans ton équipe de la Tour.
+• Si tu as déjà dépassé l'étage 50, tu la reçois en lançant le jeu.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 42.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.7 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.7-beta)
+
+
 ## 0.4.6-beta — 16/11/2026
 
 🔧 CORRECTIFS
