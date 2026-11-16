@@ -1,39 +1,45 @@
 {
   "published": true,
-  "version_name": "0.4.4-beta",
-  "version_code": 39,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.4-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.4-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.4-beta/Cwollector-0.4.4-beta-signed.apk",
+  "version_name": "0.4.5-beta",
+  "version_code": 40,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.5-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.5-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.5-beta/Cwollector-0.4.5-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "2513e58e2d9f0d0f2528f007415b5336a079bf81046621f030c12fbdb8ecf338",
-  "headline": "La Tour des Cwoks ouvre ses portes 🏰",
+  "sha256": "87bfffba2c537b0b6a0c192c94261476a0df085ad05a38fb5060bc0bb29f82f1",
+  "headline": "200 étages, des albums et le Pass VIP 👑",
   "sections": [
     {
       "title": "TOUR DES CWOKS",
       "items": [
-        "Nouveau mode : forme une équipe de 5 cartes et grimpe les étages en combat automatique.",
-        "Plus une carte est rare, plus elle est forte. Les Dorées, Prismatiques, Astrales et Collectors frappent encore plus fort.",
-        "Réunis des cartes de la même famille pour un bonus. Un boss tous les 10 étages.",
-        "Fragments et XP à chaque étage, un pack garanti tous les 5 étages."
+        "La Tour compte maintenant 200 étages, avec une carte exclusive aux étages 50, 100, 150 et 200 (elles arrivent bientôt).",
+        "Tes doublons renforcent tes cartes dans la Tour : chaque pack compte.",
+        "Boss du week-end : un week-end sur cinq, un boss à ta mesure et un gros butin.",
+        "Les Soutiens soignent plus fort."
       ]
     },
     {
-      "title": "SONS ET MUSIQUE",
+      "title": "ALBUMS",
       "items": [
-        "Nouveaux sons pour les boutons, les récompenses, les missions et les niveaux.",
-        "Une musique et des sons rien que pour la Tour."
+        "15 albums à thème dans la Collection, avec des Fragments, des Tickets et des packs à réclamer."
       ]
     },
     {
-      "title": "CONFORT",
+      "title": "PROFIL",
       "items": [
-        "Collection : cartes plus grandes.",
-        "Le week-end en cours s'affiche dans Événements.",
-        "Nouvelle partie : les écrans se débloquent un par un pour découvrir le jeu en douceur."
+        "Ta vitrine affiche les effets de tes cartes.",
+        "Nouveau bouton : crée une image de ta vitrine à partager."
+      ]
+    },
+    {
+      "title": "BOUTIQUE",
+      "items": [
+        "Nouveau Pass VIP : +25 % de Fragments et d'XP, vitesse ×2 et Passer dans la Tour, pseudo et badge VIP.",
+        "Les packs de Fragments contiennent environ quatre fois plus de Fragments.",
+        "Offre de bienvenue plus généreuse, et le Lot Collectionneur inclut le Pass VIP."
       ]
     }
   ],
-  "notes": "🏰 TOUR DES CWOKS\n• Nouveau mode : forme une équipe de 5 cartes et grimpe les étages en combat automatique.\n• Plus une carte est rare, plus elle est forte. Les Dorées, Prismatiques, Astrales et Collectors frappent encore plus fort.\n• Réunis des cartes de la même famille pour un bonus. Un boss tous les 10 étages.\n• Fragments et XP à chaque étage, un pack garanti tous les 5 étages.\n\n🎵 SONS ET MUSIQUE\n• Nouveaux sons pour les boutons, les récompenses, les missions et les niveaux.\n• Une musique et des sons rien que pour la Tour.\n\n✨ CONFORT\n• Collection : cartes plus grandes.\n• Le week-end en cours s'affiche dans Événements.\n• Nouvelle partie : les écrans se débloquent un par un pour découvrir le jeu en douceur."
+  "notes": "🏰 TOUR DES CWOKS\n• La Tour compte maintenant 200 étages, avec une carte exclusive aux étages 50, 100, 150 et 200 (elles arrivent bientôt).\n• Tes doublons renforcent tes cartes dans la Tour : chaque pack compte.\n• Boss du week-end : un week-end sur cinq, un boss à ta mesure et un gros butin.\n• Les Soutiens soignent plus fort.\n\n📚 ALBUMS\n• 15 albums à thème dans la Collection, avec des Fragments, des Tickets et des packs à réclamer.\n\n🖼️ PROFIL\n• Ta vitrine affiche les effets de tes cartes.\n• Nouveau bouton : crée une image de ta vitrine à partager.\n\n👑 BOUTIQUE\n• Nouveau Pass VIP : +25 % de Fragments et d'XP, vitesse ×2 et Passer dans la Tour, pseudo et badge VIP.\n• Les packs de Fragments contiennent environ quatre fois plus de Fragments.\n• Offre de bienvenue plus généreuse, et le Lot Collectionneur inclut le Pass VIP."
 }

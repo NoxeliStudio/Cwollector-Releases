@@ -1,5 +1,33 @@
 # Patchnotes Cwollector
 
+## 0.4.5-beta — 16/11/2026
+
+🏰 TOUR DES CWOKS
+• La Tour compte maintenant 200 étages, avec une carte exclusive aux étages 50, 100, 150 et 200 (elles arrivent bientôt).
+• Tes doublons renforcent tes cartes dans la Tour : chaque pack compte.
+• Boss du week-end : un week-end sur cinq, un boss à ta mesure et un gros butin.
+• Les Soutiens soignent plus fort.
+
+📚 ALBUMS
+• 15 albums à thème dans la Collection, avec des Fragments, des Tickets et des packs à réclamer.
+
+🖼️ PROFIL
+• Ta vitrine affiche les effets de tes cartes.
+• Nouveau bouton : crée une image de ta vitrine à partager.
+
+👑 BOUTIQUE
+• Nouveau Pass VIP : +25 % de Fragments et d'XP, vitesse ×2 et Passer dans la Tour, pseudo et badge VIP.
+• Les packs de Fragments contiennent environ quatre fois plus de Fragments.
+• Offre de bienvenue plus généreuse, et le Lot Collectionneur inclut le Pass VIP.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 40.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.5 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.5-beta)
+
+
 ## 0.4.4-beta — 16/11/2026
 
 🏰 TOUR DES CWOKS
