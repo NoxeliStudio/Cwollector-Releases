@@ -1,5 +1,30 @@
 # Patchnotes Cwollector
 
+## 0.4.4-beta — 16/11/2026
+
+🏰 TOUR DES CWOKS
+• Nouveau mode : forme une équipe de 5 cartes et grimpe les étages en combat automatique.
+• Plus une carte est rare, plus elle est forte. Les Dorées, Prismatiques, Astrales et Collectors frappent encore plus fort.
+• Réunis des cartes de la même famille pour un bonus. Un boss tous les 10 étages.
+• Fragments et XP à chaque étage, un pack garanti tous les 5 étages.
+
+🎵 SONS ET MUSIQUE
+• Nouveaux sons pour les boutons, les récompenses, les missions et les niveaux.
+• Une musique et des sons rien que pour la Tour.
+
+✨ CONFORT
+• Collection : cartes plus grandes.
+• Le week-end en cours s'affiche dans Événements.
+• Nouvelle partie : les écrans se débloquent un par un pour découvrir le jeu en douceur.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 39.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.4 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.4-beta)
+
+
 ## 0.4.3-beta — 22/10/2026
 
 🎉 WEEK-ENDS

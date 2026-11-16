@@ -1,24 +1,39 @@
 {
   "published": true,
-  "version_name": "0.4.3-beta",
-  "version_code": 38,
-  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.3-beta",
-  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.3-beta",
-  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.3-beta/Cwollector-0.4.3-beta-signed.apk",
+  "version_name": "0.4.4-beta",
+  "version_code": 39,
+  "apk_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.4-beta",
+  "release_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.4-beta",
+  "download_url": "https://github.com/NoxeliStudio/Cwollector-Releases/releases/download/v0.4.4-beta/Cwollector-0.4.4-beta-signed.apk",
   "mandatory": false,
   "prerelease": true,
-  "sha256": "3a70e6eed54db0c920fc68a98196f101aec9050c2e6e167b0c08934ab23d5287",
-  "headline": "Les week-ends deviennent des événements 🎉",
+  "sha256": "2513e58e2d9f0d0f2528f007415b5336a079bf81046621f030c12fbdb8ecf338",
+  "headline": "La Tour des Cwoks ouvre ses portes 🏰",
   "sections": [
     {
-      "title": "WEEK-ENDS",
+      "title": "TOUR DES CWOKS",
       "items": [
-        "Chaque samedi et dimanche : XP des cartes ×2 !",
-        "En plus, un événement différent chaque week-end : Week-end Doré (variantes ×2), Famille à l'honneur (une famille sort 2× plus souvent), Week-end des Collectors (Collector ×3 et +50 % de Fragments sur les doublons), Expéditions en folie (+50 % de Fragments et d'XP).",
-        "Un bandeau sur l'accueil annonce l'événement du prochain week-end, puis affiche le temps restant.",
-        "Une notification te prévient le samedi matin."
+        "Nouveau mode : forme une équipe de 5 cartes et grimpe les étages en combat automatique.",
+        "Plus une carte est rare, plus elle est forte. Les Dorées, Prismatiques, Astrales et Collectors frappent encore plus fort.",
+        "Réunis des cartes de la même famille pour un bonus. Un boss tous les 10 étages.",
+        "Fragments et XP à chaque étage, un pack garanti tous les 5 étages."
+      ]
+    },
+    {
+      "title": "SONS ET MUSIQUE",
+      "items": [
+        "Nouveaux sons pour les boutons, les récompenses, les missions et les niveaux.",
+        "Une musique et des sons rien que pour la Tour."
+      ]
+    },
+    {
+      "title": "CONFORT",
+      "items": [
+        "Collection : cartes plus grandes.",
+        "Le week-end en cours s'affiche dans Événements.",
+        "Nouvelle partie : les écrans se débloquent un par un pour découvrir le jeu en douceur."
       ]
     }
   ],
-  "notes": "🎉 WEEK-ENDS\n• Chaque samedi et dimanche : XP des cartes ×2 !\n• En plus, un événement différent chaque week-end : Week-end Doré (variantes ×2), Famille à l'honneur (une famille sort 2× plus souvent), Week-end des Collectors (Collector ×3 et +50 % de Fragments sur les doublons), Expéditions en folie (+50 % de Fragments et d'XP).\n• Un bandeau sur l'accueil annonce l'événement du prochain week-end, puis affiche le temps restant.\n• Une notification te prévient le samedi matin."
+  "notes": "🏰 TOUR DES CWOKS\n• Nouveau mode : forme une équipe de 5 cartes et grimpe les étages en combat automatique.\n• Plus une carte est rare, plus elle est forte. Les Dorées, Prismatiques, Astrales et Collectors frappent encore plus fort.\n• Réunis des cartes de la même famille pour un bonus. Un boss tous les 10 étages.\n• Fragments et XP à chaque étage, un pack garanti tous les 5 étages.\n\n🎵 SONS ET MUSIQUE\n• Nouveaux sons pour les boutons, les récompenses, les missions et les niveaux.\n• Une musique et des sons rien que pour la Tour.\n\n✨ CONFORT\n• Collection : cartes plus grandes.\n• Le week-end en cours s'affiche dans Événements.\n• Nouvelle partie : les écrans se débloquent un par un pour découvrir le jeu en douceur."
 }
