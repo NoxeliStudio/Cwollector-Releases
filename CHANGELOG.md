@@ -1,5 +1,21 @@
 # Patchnotes Cwollector
 
+## 0.4.10-beta — 17/11/2026
+
+🐾 NOUVEAU
+• La Tour des Cwoks est mieux dosée au début : on y progresse au rythme de sa collection.
+• Les familles Arcaniste et Pirate arrivent plus tôt : plus de cartes différentes dès les premiers packs.
+• La Boutique ouvrira au lancement officiel du jeu.
+• Petites corrections.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 45.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.10 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.10-beta)
+
+
 ## 0.4.9-beta — 17/11/2026
 
 🐾 NOUVEAU
