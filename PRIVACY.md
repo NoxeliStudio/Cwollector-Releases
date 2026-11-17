@@ -30,7 +30,7 @@ https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-s
 
 Si tu l'acceptes, le jeu envoie des statistiques d'utilisation à **GameAnalytics**
 (GameAnalytics ApS) pour nous aider à améliorer le jeu : durée et nombre de sessions,
-packs ouverts, progression, missions, expéditions et achats effectués.
+packs ouverts, progression, missions, Tour des Cwoks et achats effectués.
 Ces statistiques sont associées à un **identifiant aléatoire** créé par le jeu, au modèle
 de ton téléphone, à ta version d'Android et à la version du jeu. Elles ne contiennent ni
 ton nom, ni ton adresse e-mail, ni l'identifiant publicitaire de ton appareil.
