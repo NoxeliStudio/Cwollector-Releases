@@ -1,5 +1,22 @@
 # Patchnotes Cwollector
 
+## 0.4.9-beta — 17/11/2026
+
+🐾 NOUVEAU
+• Ton Cwok a un nouveau look : il respire, cligne des yeux, remue la queue, bondit quand tu le caresses et dort la nuit.
+• 8 costumes à débloquer en grimpant la Tour des Cwoks : Hiver, Fermier, Cuisinier, Mineur, Explorateur, Pirate, Mage et Roi. Appuie longtemps sur ton Cwok pour les essayer.
+• Il a des répliques pour chaque costume et réagit à tes tirages, à tes victoires dans la Tour, à tes succès et plus encore.
+• Les Expéditions sont remplacées par le Trésor de la Tour : pendant que tu ne joues pas, ta Tour remplit un trésor de Fragments et d'XP, avec un coffre bonus toutes les 8 heures. Plus tu montes, plus il rapporte.
+• La Tour se débloque maintenant au niveau 5 de Maîtrise.
+
+- Android : APK Release signé officiel Noxeli Studio.
+- versionCode : 44.
+- Statut pré-release : true.
+- Mise à jour obligatoire : false.
+
+Téléchargement officiel : [Cwollector 0.4.9 Beta](https://github.com/NoxeliStudio/Cwollector-Releases/releases/tag/v0.4.9-beta)
+
+
 ## 0.4.8-beta — 16/11/2026
 
 ✨ NOUVEAU
